@@ -1,0 +1,77 @@
+[    2708ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[   40099ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ http://localhost:8080/compliances/35/clause:0
+[   40104ms] [ERROR] Failed to save data: HttpErrorResponse @ http://localhost:4200/chunk-UESHXH2Y.js:161
+[   94450ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/66/clause-guidance:0
+[   94460ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[  128355ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/66/clause-guidance:0
+[  128360ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[  149547ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/66/clause-guidance:0
+[  149549ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[  169349ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/66/clause-guidance:0
+[  169352ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[  187650ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/66/clause-guidance:0
+[  187657ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[  429309ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:4200/@vite/client:863
+[  429321ms] [ERROR] WebSocket connection to 'ws://localhost:4200/' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED @ http://localhost:4200/@vite/client:920
+[  513560ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[  572792ms] TypeError: Cannot read properties of undefined (reading 'backdrop')
+    at kn._initializeBackDrop (http://localhost:4200/scripts.js:1334:55)
+    at new kn (http://localhost:4200/scripts.js:1307:102)
+    at kn.getOrCreateInstance (http://localhost:4200/scripts.js:229:38)
+    at HTMLButtonElement.<anonymous> (http://localhost:4200/scripts.js:288:10)
+    at HTMLDocument.n3 (http://localhost:4200/scripts.js:102:196)
+    at _ZoneDelegate.invokeTask (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:360:171)
+    at ZoneImpl.runTask (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:141:37)
+    at ZoneTask.invokeTask [as invoke] (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:437:26)
+    at invokeTask (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:938:12)
+    at globalCallback (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:967:23)

@@ -1,0 +1,315 @@
+- generic [ref=f13e4]:
+  - generic:
+    - main:
+      - complementary [ref=f13e5]:
+        - heading [level=2] [ref=f13e7]:
+          - link [ref=f13e8] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - list [ref=f13e11]:
+          - listitem [ref=f13e12]:
+            - generic "Dashboards" [ref=f13e13] [cursor=pointer]
+          - listitem [ref=f13e15]:
+            - generic "Organization" [ref=f13e16] [cursor=pointer]
+          - listitem [ref=f13e18]:
+            - generic "Org. Context" [ref=f13e19] [cursor=pointer]
+          - listitem [ref=f13e21]:
+            - generic "Compliance" [ref=f13e22] [cursor=pointer]
+          - listitem [ref=f13e24]:
+            - generic "Risk" [ref=f13e25] [cursor=pointer]
+          - listitem [ref=f13e27]:
+            - generic "Document" [ref=f13e28] [cursor=pointer]
+          - listitem [ref=f13e30]:
+            - generic "Incident" [ref=f13e31] [cursor=pointer]
+          - listitem [ref=f13e33]:
+            - generic "Management Review" [ref=f13e34] [cursor=pointer]
+          - listitem:
+            - link "Setting" [ref=f13e36] [cursor=pointer]:
+              - /url: /settings
+  - generic [ref=f13e38]:
+    - generic:
+      - banner [ref=f13e39]:
+        - list [ref=f13e40]:
+          - listitem [ref=f13e41]:
+            - button [ref=f13e43] [cursor=pointer]:
+              - img "images" [ref=f13e44]
+          - listitem [ref=f13e45]:
+            - button "SA Super Admin" [ref=f13e47] [cursor=pointer]:
+              - generic [ref=f13e48]: SA
+              - generic [ref=f13e52]: Super Admin
+      - generic [ref=f13e53]:
+        - generic [ref=f13e54]:
+          - heading "Notification" [level=3] [ref=f13e55]
+          - link [ref=f13e56] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=f13e63]:
+          - heading [level=5]
+          - paragraph [ref=f13e64]: Youre all caught up! No new notifications at the moment
+    - generic [ref=f13e66]:
+      - generic [ref=f13e67]:
+        - generic [ref=f13e69]:
+          - button "Quick Filters" [ref=f13e70] [cursor=pointer]
+          - list [ref=f13e72]:
+            - listitem [ref=f13e73]:
+              - generic [ref=f13e74] [cursor=pointer]: All
+            - listitem [ref=f13e75]:
+              - generic [ref=f13e76] [cursor=pointer]: Latest
+            - listitem [ref=f13e77]:
+              - generic [ref=f13e78] [cursor=pointer]: Compliant
+            - listitem [ref=f13e79]:
+              - generic [ref=f13e80] [cursor=pointer]: Partially Compliant
+            - listitem [ref=f13e81]:
+              - generic [ref=f13e82] [cursor=pointer]: Non Compliant
+            - listitem [ref=f13e83]:
+              - generic [ref=f13e84] [cursor=pointer]: Not Applicable
+        - generic [ref=f13e85]:
+          - separator [ref=f13e86]
+          - generic [ref=f13e87] [cursor=pointer]: Apply
+          - list [ref=f13e89]:
+            - listitem [ref=f13e90]:
+              - button "Dynamic Filters" [expanded] [ref=f13e91] [cursor=pointer]
+              - list [ref=f13e93]:
+                - listitem [ref=f13e94]:
+                  - button "Severity Level" [ref=f13e95] [cursor=pointer]
+                - listitem [ref=f13e96]:
+                  - button "Category" [ref=f13e97] [cursor=pointer]
+                - listitem [ref=f13e98]:
+                  - button "Compliance Status" [ref=f13e99] [cursor=pointer]
+                - listitem [ref=f13e100]:
+                  - button "Review Frequency" [ref=f13e101] [cursor=pointer]
+                - listitem [ref=f13e102]:
+                  - button "Assessment Framework" [ref=f13e103] [cursor=pointer]
+                - listitem [ref=f13e104]:
+                  - button "Responsible User" [ref=f13e105] [cursor=pointer]
+                - listitem [ref=f13e106]:
+                  - button "Review Responsible User" [ref=f13e107] [cursor=pointer]
+      - generic [ref=f13e110]:
+        - heading "Compliance Register" [level=2] [ref=f13e112]
+        - generic [ref=f13e113]:
+          - textbox "Type to search..." [ref=f13e118]
+          - list [ref=f13e120]:
+            - listitem [ref=f13e121]:
+              - img "undefined" [ref=f13e124]
+            - listitem [ref=f13e125]:
+              - img "undefined" [ref=f13e128] [cursor=pointer]
+          - button "Create New Folder" [ref=f13e130] [cursor=pointer]
+      - generic [ref=f13e132]:
+        - generic [ref=f13e134] [cursor=pointer]:
+          - button [ref=f13e138]:
+            - img "More Options" [ref=f13e139]
+          - heading "Requlatory (6)" [level=5] [ref=f13e140]
+          - paragraph [ref=f13e141]: Created on Mar 6, 2026 7:40 AM
+        - generic [ref=f13e143] [cursor=pointer]:
+          - button [ref=f13e147]:
+            - img "More Options" [ref=f13e148]
+          - heading "Cybersecurity controls (2)" [level=5] [ref=f13e149]
+          - paragraph [ref=f13e150]: Created on Mar 6, 2026 11:56 AM
+        - generic [ref=f13e152] [cursor=pointer]:
+          - button [ref=f13e156]:
+            - img "More Options" [ref=f13e157]
+          - heading "SAMA (4)" [level=5] [ref=f13e158]
+          - paragraph [ref=f13e159]: Created on Mar 18, 2026 3:44 PM
+      - generic [ref=f13e162]:
+        - generic [ref=f13e164]:
+          - heading "Add" [level=3] [ref=f13e166]
+          - generic [ref=f13e167]:
+            - button "Cancel" [ref=f13e169] [cursor=pointer]
+            - generic [ref=f13e170]:
+              - button "Save & New" [disabled]
+            - generic [ref=f13e171]:
+              - button "Save" [disabled]
+        - generic [ref=f13e173]:
+          - generic [ref=f13e174]:
+            - heading "Compliance Details" [level=4] [ref=f13e176]
+            - generic [ref=f13e178]:
+              - generic [ref=f13e180]:
+                - text: Standard/Regulatory Code
+                - generic [ref=f13e181]: "*"
+              - textbox "Standard/Regulatory Code *" [ref=f13e186]:
+                - /placeholder: Enter the standard or regulatory code
+            - generic [ref=f13e188]:
+              - generic [ref=f13e190]:
+                - text: Version
+                - generic [ref=f13e191]: "*"
+              - textbox "Version * Version *" [ref=f13e196]:
+                - /placeholder: Specify the version
+            - generic [ref=f13e198]:
+              - generic [ref=f13e200]:
+                - text: Title
+                - generic [ref=f13e201]: "*"
+              - textbox "Title *" [ref=f13e206]:
+                - /placeholder: Enter the title of the compliance
+            - generic [ref=f13e208]:
+              - generic [ref=f13e210]:
+                - text: العنوان
+                - generic [ref=f13e211]: "*"
+              - textbox "العنوان *" [ref=f13e216]:
+                - /placeholder: أدخل عنوان الامتثال
+            - generic [ref=f13e219]:
+              - generic [ref=f13e220]: Description
+              - textbox "Description Description" [ref=f13e224]:
+                - /placeholder: Provide a detailed description
+            - generic [ref=f13e226]:
+              - generic [ref=f13e227]: الوصف
+              - textbox "الوصف الوصف" [ref=f13e232]:
+                - /placeholder: قدم وصفًا مفصلاً
+            - generic [ref=f13e236]:
+              - text: Assessment Type
+              - generic [ref=f13e237]: "*"
+            - generic [ref=f13e239]:
+              - generic [ref=f13e241]:
+                - text: Severity Level
+                - generic [ref=f13e242]: "*"
+              - generic [ref=f13e243]:
+                - generic [ref=f13e245]:
+                  - generic [ref=f13e246]: Select severity level
+                  - combobox [ref=f13e248]
+                - status [ref=f13e249]
+            - generic [ref=f13e251]:
+              - generic [ref=f13e253]:
+                - text: Category
+                - generic [ref=f13e254]: "*"
+              - generic [ref=f13e255]:
+                - generic [ref=f13e257]:
+                  - generic [ref=f13e258]: Select category
+                  - combobox [ref=f13e260]
+                - status [ref=f13e261]
+            - generic [ref=f13e263]:
+              - generic [ref=f13e265]:
+                - text: Assessment Framework
+                - generic [ref=f13e266]: "*"
+              - generic [ref=f13e267]:
+                - generic [ref=f13e269]:
+                  - generic [ref=f13e270]: Select the assessment framework
+                  - combobox [ref=f13e272]
+                - status [ref=f13e273]
+            - generic [ref=f13e275]:
+              - generic [ref=f13e276]: Compliance Folder
+              - generic [ref=f13e278]:
+                - generic [ref=f13e280]:
+                  - generic [ref=f13e281]: Select Compliance Folder
+                  - combobox [ref=f13e283]
+                - status [ref=f13e284]
+            - generic [ref=f13e286]:
+              - generic [ref=f13e288]:
+                - text: Document
+                - generic [ref=f13e289]: "*"
+              - generic [ref=f13e293]:
+                - button "Drag and drop Files here or click here to upload Upload"
+                - generic [ref=f13e295] [cursor=pointer]:
+                  - generic [ref=f13e297]: Drag and drop Files here or click here to upload
+                  - generic [ref=f13e298]: Upload
+            - generic [ref=f13e300]:
+              - generic [ref=f13e302]:
+                - text: الوثيقة
+                - generic [ref=f13e303]: "*"
+              - generic [ref=f13e307]:
+                - button "Drag and drop Files here or click here to upload Upload"
+                - generic [ref=f13e309] [cursor=pointer]:
+                  - generic [ref=f13e311]: Drag and drop Files here or click here to upload
+                  - generic [ref=f13e312]: Upload
+          - separator [ref=f13e315]
+          - generic [ref=f13e316]:
+            - heading "Compliance Status Details" [level=4] [ref=f13e318]
+            - generic [ref=f13e320]:
+              - generic [ref=f13e321]: Deadline Date
+              - textbox "Deadline Date" [ref=f13e325] [cursor=pointer]:
+                - /placeholder: Select the deadline date
+            - generic [ref=f13e327]:
+              - generic [ref=f13e328]: Compliance Status
+              - generic [ref=f13e330]:
+                - generic [ref=f13e332]:
+                  - generic [ref=f13e333]: Select compliance status
+                  - combobox [ref=f13e335]
+                - status [ref=f13e336]
+            - generic [ref=f13e338]:
+              - generic [ref=f13e339]: Issue Date
+              - textbox "Issue Date" [ref=f13e343] [cursor=pointer]:
+                - /placeholder: Select the issue date
+            - generic [ref=f13e345]:
+              - generic [ref=f13e346]: Expiry Date
+              - textbox "Expiry Date" [ref=f13e350] [cursor=pointer]:
+                - /placeholder: Select the expiry date
+          - separator [ref=f13e353]
+          - generic [ref=f13e354]:
+            - heading "Responsibility Review & Oversight" [level=4] [ref=f13e356]
+            - generic [ref=f13e358]:
+              - generic [ref=f13e360]:
+                - text: Responsible User
+                - generic [ref=f13e361]: "*"
+              - generic [ref=f13e362]:
+                - generic [ref=f13e364]:
+                  - generic [ref=f13e365]: Select the responsible user
+                  - combobox [ref=f13e367]
+                - status [ref=f13e368]
+            - generic [ref=f13e370]:
+              - generic [ref=f13e371]: Review Frequency
+              - generic [ref=f13e373]:
+                - generic [ref=f13e375]:
+                  - generic [ref=f13e376]: Select the review frequency
+                  - combobox [ref=f13e378]
+                - status [ref=f13e379]
+            - generic [ref=f13e381]:
+              - generic [ref=f13e382]: Review Status
+              - generic [ref=f13e384]:
+                - generic [ref=f13e386]:
+                  - generic [ref=f13e387]: Select the review status
+                  - combobox [ref=f13e389]
+                - status [ref=f13e390]
+            - generic [ref=f13e392]:
+              - generic [ref=f13e393]: Review Responsible User
+              - generic [ref=f13e395]:
+                - generic [ref=f13e397]:
+                  - generic [ref=f13e398]: Select the review responsible user
+                  - combobox [ref=f13e400]
+                - status [ref=f13e401]
+            - generic [ref=f13e403]:
+              - generic [ref=f13e404]: Last Review Notes
+              - textbox "Last Review Notes" [ref=f13e409]:
+                - /placeholder: Enter last review notes
+      - generic [ref=f13e412]:
+        - generic [ref=f13e414]:
+          - heading "Add" [level=3] [ref=f13e416]
+          - generic [ref=f13e417]:
+            - button "Cancel" [ref=f13e419] [cursor=pointer]
+            - generic [ref=f13e420]:
+              - button "Save" [disabled]
+        - generic [ref=f13e423]:
+          - heading "Compliance Details" [level=4] [ref=f13e425]
+          - generic [ref=f13e427]:
+            - generic [ref=f13e429]:
+              - text: Standard/Regulatory Code
+              - generic [ref=f13e430]: "*"
+            - generic [ref=f13e431]:
+              - generic [ref=f13e433]:
+                - generic [ref=f13e434]: Select the standard or regulatory code
+                - combobox [ref=f13e436]
+              - status [ref=f13e437]
+          - generic [ref=f13e439]:
+            - generic [ref=f13e441]:
+              - text: Version
+              - generic [ref=f13e442]: "*"
+            - textbox "Specify the version" [ref=f13e447]
+          - generic [ref=f13e449]:
+            - generic [ref=f13e450]: Description
+            - textbox "Provide a detailed description" [ref=f13e455]
+          - generic [ref=f13e457]:
+            - generic [ref=f13e458]: الوصف
+            - textbox "قدم وصفًا مفصلاً" [ref=f13e463]
+          - generic [ref=f13e465]:
+            - generic [ref=f13e467]:
+              - text: Document
+              - generic [ref=f13e468]: "*"
+            - generic [ref=f13e472]:
+              - button "Drag and drop Files here or click here to upload Upload"
+              - generic [ref=f13e474] [cursor=pointer]:
+                - generic [ref=f13e476]: Drag and drop Files here or click here to upload
+                - generic [ref=f13e477]: Upload
+          - generic [ref=f13e479]:
+            - generic [ref=f13e481]:
+              - text: الوثيقة
+              - generic [ref=f13e482]: "*"
+            - generic [ref=f13e486]:
+              - button "Drag and drop Files here or click here to upload Upload"
+              - generic [ref=f13e488] [cursor=pointer]:
+                - generic [ref=f13e490]: Drag and drop Files here or click here to upload
+                - generic [ref=f13e491]: Upload

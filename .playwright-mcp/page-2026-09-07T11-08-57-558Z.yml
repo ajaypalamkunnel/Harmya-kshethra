@@ -1,0 +1,202 @@
+- generic [ref=f4e4]:
+  - generic:
+    - main:
+      - complementary [ref=f4e5]:
+        - heading [level=2] [ref=f4e7]:
+          - link [ref=f4e8] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - list [ref=f4e11]:
+          - listitem [ref=f4e12]:
+            - generic "Dashboards" [ref=f4e13] [cursor=pointer]
+          - listitem [ref=f4e15]:
+            - generic "Organization" [ref=f4e16] [cursor=pointer]
+          - listitem [ref=f4e18]:
+            - generic "Org. Context" [ref=f4e19] [cursor=pointer]
+          - listitem [ref=f4e21]:
+            - generic "Compliance" [ref=f4e22] [cursor=pointer]
+          - listitem [ref=f4e24]:
+            - generic "Risk" [ref=f4e25] [cursor=pointer]
+          - listitem [ref=f4e27]:
+            - generic "Document" [ref=f4e28] [cursor=pointer]
+          - listitem [ref=f4e30]:
+            - generic "Incident" [ref=f4e31] [cursor=pointer]
+          - listitem [ref=f4e33]:
+            - generic "Management Review" [ref=f4e34] [cursor=pointer]
+          - listitem:
+            - link "Setting" [ref=f4e36] [cursor=pointer]:
+              - /url: /settings
+  - generic [ref=f4e38]:
+    - generic:
+      - banner [ref=f4e39]:
+        - list [ref=f4e40]:
+          - listitem [ref=f4e41]:
+            - button [ref=f4e43] [cursor=pointer]:
+              - img "images" [ref=f4e44]
+          - listitem [ref=f4e45]:
+            - button "SA Super Admin" [ref=f4e47] [cursor=pointer]:
+              - generic [ref=f4e48]: SA
+              - generic [ref=f4e52]: Super Admin
+      - generic [ref=f4e53]:
+        - generic [ref=f4e54]:
+          - heading "Notification" [level=3] [ref=f4e55]
+          - link [ref=f4e56] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=f4e63]:
+          - heading [level=5]
+          - paragraph [ref=f4e64]: Youre all caught up! No new notifications at the moment
+    - generic [ref=f4e67]:
+      - generic [ref=f4e68]:
+        - generic [ref=f4e72]:
+          - link "Back" [ref=f4e73] [cursor=pointer]:
+            - /url: /compliance/register?view=list
+          - navigation "breadcrumb" [ref=f4e75]:
+            - list [ref=f4e76]:
+              - listitem "Compliance" [ref=f4e77]:
+                - link "Compliance" [ref=f4e78] [cursor=pointer]:
+                  - /url: /compliance/register?view=list
+              - listitem "PW Requirement Compliance 1757242500" [ref=f4e79]
+        - generic [ref=f4e80]:
+          - generic [ref=f4e81]:
+            - heading "PW Requirement Compliance 1757242500" [level=4] [ref=f4e82]
+            - generic [ref=f4e83]:
+              - generic [ref=f4e84]: "Ref No:"
+              - paragraph [ref=f4e85]: CR-2026-0026
+          - generic [ref=f4e86]:
+            - generic [ref=f4e87]:
+              - generic [ref=f4e89]:
+                - img "Severity" [ref=f4e91]
+                - generic [ref=f4e93]:
+                  - generic [ref=f4e94]: Severity
+                  - paragraph [ref=f4e95]:
+                    - generic [ref=f4e96]: High
+              - generic [ref=f4e98]:
+                - img "Compliance Status" [ref=f4e100]
+                - generic [ref=f4e102]:
+                  - generic [ref=f4e103]: Compliance Status
+                  - paragraph [ref=f4e104]: "--"
+            - generic "Number of Requirements" [ref=f4e106]:
+              - generic [ref=f4e107]: Req
+              - heading "0" [level=5] [ref=f4e108]
+            - generic "Number of Associated Controls" [ref=f4e110]:
+              - generic [ref=f4e111]: Controls
+              - heading "0" [level=5] [ref=f4e112]
+            - generic "compliance.number_of_associated_risk" [ref=f4e114]:
+              - generic [ref=f4e115]: Risks
+              - heading "0" [level=5] [ref=f4e116]
+            - generic "Number of Associated Incidents" [ref=f4e118]:
+              - generic [ref=f4e119]: Incidents
+              - heading "0" [level=5] [ref=f4e120]
+      - list [ref=f4e125]:
+        - listitem "Overview" [ref=f4e126] [cursor=pointer]:
+          - generic [ref=f4e127]:
+            - img "undefined" [ref=f4e129]
+            - text: Overview
+        - listitem "PDF Preview" [ref=f4e130] [cursor=pointer]:
+          - generic [ref=f4e131]:
+            - img "undefined" [ref=f4e258]
+            - text: PDF Preview
+        - listitem "Clauses/Articles" [ref=f4e133] [cursor=pointer]:
+          - generic [ref=f4e134]:
+            - img "undefined" [ref=f4e259]
+            - text: Clauses/Articles
+        - listitem "Compliance Requirements" [ref=f4e136] [cursor=pointer]:
+          - generic [ref=f4e137]:
+            - img "undefined" [ref=f4e260]
+            - text: Compliance Requirements
+        - listitem "Action Plans" [ref=f4e139] [cursor=pointer]:
+          - generic [ref=f4e140]:
+            - img "undefined" [ref=f4e261]
+            - text: Action Plans
+      - generic [ref=f4e488]:
+        - generic [ref=f4e493]:
+          - textbox "Type to search..." [ref=f4e498]
+          - button [ref=f4e502] [cursor=pointer]:
+            - img "undefined" [ref=f4e504]
+            - text: Customize
+          - button "More" [ref=f4e507] [cursor=pointer]
+          - button [ref=f4e509] [cursor=pointer]:
+            - img "undefined" [ref=f4e511]
+            - text: Add
+        - table [ref=f4e518]:
+          - rowgroup [ref=f4e519]:
+            - row [ref=f4e520]:
+              - columnheader "#" [ref=f4e521]
+              - columnheader "Clause No" [ref=f4e522]
+              - columnheader "Clause" [ref=f4e523]
+              - columnheader "Requirement" [ref=f4e524]
+              - columnheader "Category" [ref=f4e525]
+              - columnheader "Severity Level" [ref=f4e526]
+              - columnheader "Responsible Unit" [ref=f4e527]
+              - columnheader "Deadline" [ref=f4e528]
+              - columnheader "Compliance Status" [ref=f4e529]
+              - columnheader "Action" [ref=f4e530]
+          - rowgroup [ref=f4e531]:
+            - row [ref=f4e532]:
+              - cell "No records found!" [ref=f4e533]
+        - generic [ref=f4e536]:
+          - generic [ref=f4e538]:
+            - heading "Add" [level=3] [ref=f4e540]
+            - generic [ref=f4e541]:
+              - button "Cancel" [ref=f4e543] [cursor=pointer]
+              - generic [ref=f4e544]:
+                - button "Save & New" [disabled]
+              - generic [ref=f4e545]:
+                - button "Save" [disabled]
+          - generic [ref=f4e548]:
+            - generic [ref=f4e550]:
+              - generic [ref=f4e552]:
+                - text: Clause
+                - generic [ref=f4e553]: "*"
+              - generic [ref=f4e554]:
+                - generic [ref=f4e556]:
+                  - generic [ref=f4e557]: Select Clause
+                  - combobox [expanded] [active] [ref=f4e559]
+                - listbox "Options List" [ref=f4e632]:
+                  - generic [ref=f4e633]: No items found
+                - status [ref=f4e560]: No items found
+            - generic [ref=f4e562]:
+              - generic [ref=f4e564]:
+                - text: Requirement
+                - generic [ref=f4e565]: "*"
+              - textbox "Requirement *" [ref=f4e569]:
+                - /placeholder: Provide a detailed requirement
+            - generic [ref=f4e571]:
+              - generic [ref=f4e573]:
+                - text: المتطلب
+                - generic [ref=f4e574]: "*"
+              - textbox "المتطلب *" [ref=f4e578]:
+                - /placeholder: قدم متطلبًا مفصلاً
+            - generic [ref=f4e580]:
+              - generic [ref=f4e581]: Category
+              - generic [ref=f4e583]:
+                - generic [ref=f4e585]:
+                  - generic [ref=f4e586]: Select category
+                  - combobox [ref=f4e588]
+                - status [ref=f4e589]
+            - generic [ref=f4e591]:
+              - generic [ref=f4e592]: Severity Level
+              - generic [ref=f4e594]:
+                - generic [ref=f4e596]:
+                  - generic [ref=f4e597]: Select severity level
+                  - combobox [ref=f4e599]
+                - status [ref=f4e600]
+            - generic [ref=f4e602]:
+              - generic [ref=f4e604]:
+                - text: Responsible Units
+                - generic [ref=f4e605]: "*"
+              - generic [ref=f4e606]:
+                - generic [ref=f4e608]:
+                  - generic [ref=f4e609]: Select responsible units
+                  - combobox [ref=f4e611]
+                - status [ref=f4e612]
+            - generic [ref=f4e614]:
+              - generic [ref=f4e615]: Compliance Deadline
+              - textbox "Compliance Deadline" [ref=f4e619] [cursor=pointer]:
+                - /placeholder: Select the compliance deadline
+            - generic [ref=f4e621]:
+              - generic [ref=f4e622]: Required Documents
+              - generic [ref=f4e624]:
+                - generic [ref=f4e626]:
+                  - generic [ref=f4e627]: Select the required documents
+                  - combobox [ref=f4e629]
+                - status [ref=f4e630]

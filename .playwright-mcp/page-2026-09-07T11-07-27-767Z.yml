@@ -1,0 +1,232 @@
+- generic [ref=f4e4]:
+  - generic:
+    - main:
+      - complementary [ref=f4e5]:
+        - heading [level=2] [ref=f4e7]:
+          - link [ref=f4e8] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - list [ref=f4e11]:
+          - listitem [ref=f4e12]:
+            - generic "Dashboards" [ref=f4e13] [cursor=pointer]
+          - listitem [ref=f4e15]:
+            - generic "Organization" [ref=f4e16] [cursor=pointer]
+          - listitem [ref=f4e18]:
+            - generic "Org. Context" [ref=f4e19] [cursor=pointer]
+          - listitem [ref=f4e21]:
+            - generic "Compliance" [ref=f4e22] [cursor=pointer]
+          - listitem [ref=f4e24]:
+            - generic "Risk" [ref=f4e25] [cursor=pointer]
+          - listitem [ref=f4e27]:
+            - generic "Document" [ref=f4e28] [cursor=pointer]
+          - listitem [ref=f4e30]:
+            - generic "Incident" [ref=f4e31] [cursor=pointer]
+          - listitem [ref=f4e33]:
+            - generic "Management Review" [ref=f4e34] [cursor=pointer]
+          - listitem:
+            - link "Setting" [ref=f4e36] [cursor=pointer]:
+              - /url: /settings
+  - generic [ref=f4e38]:
+    - generic:
+      - banner [ref=f4e39]:
+        - list [ref=f4e40]:
+          - listitem [ref=f4e41]:
+            - button [ref=f4e43] [cursor=pointer]:
+              - img "images" [ref=f4e44]
+          - listitem [ref=f4e45]:
+            - button "SA Super Admin" [ref=f4e47] [cursor=pointer]:
+              - generic [ref=f4e48]: SA
+              - generic [ref=f4e52]: Super Admin
+      - generic [ref=f4e53]:
+        - generic [ref=f4e54]:
+          - heading "Notification" [level=3] [ref=f4e55]
+          - link [ref=f4e56] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=f4e63]:
+          - heading [level=5]
+          - paragraph [ref=f4e64]: Youre all caught up! No new notifications at the moment
+    - generic [ref=f4e67]:
+      - generic [ref=f4e68]:
+        - generic [ref=f4e72]:
+          - link "Back" [ref=f4e73] [cursor=pointer]:
+            - /url: /compliance/register?view=list
+          - navigation "breadcrumb" [ref=f4e75]:
+            - list [ref=f4e76]:
+              - listitem "Compliance" [ref=f4e77]:
+                - link "Compliance" [ref=f4e78] [cursor=pointer]:
+                  - /url: /compliance/register?view=list
+              - listitem "PW Requirement Compliance 1757242500" [ref=f4e79]
+        - generic [ref=f4e80]:
+          - generic [ref=f4e81]:
+            - heading "PW Requirement Compliance 1757242500" [level=4] [ref=f4e82]
+            - generic [ref=f4e83]:
+              - generic [ref=f4e84]: "Ref No:"
+              - paragraph [ref=f4e85]: CR-2026-0026
+          - generic [ref=f4e86]:
+            - generic [ref=f4e87]:
+              - generic [ref=f4e89]:
+                - img "Severity" [ref=f4e91]
+                - generic [ref=f4e93]:
+                  - generic [ref=f4e94]: Severity
+                  - paragraph [ref=f4e95]:
+                    - generic [ref=f4e96]: High
+              - generic [ref=f4e98]:
+                - img "Compliance Status" [ref=f4e100]
+                - generic [ref=f4e102]:
+                  - generic [ref=f4e103]: Compliance Status
+                  - paragraph [ref=f4e104]: "--"
+            - generic "Number of Requirements" [ref=f4e106]:
+              - generic [ref=f4e107]: Req
+              - heading "0" [level=5] [ref=f4e108]
+            - generic "Number of Associated Controls" [ref=f4e110]:
+              - generic [ref=f4e111]: Controls
+              - heading "0" [level=5] [ref=f4e112]
+            - generic "compliance.number_of_associated_risk" [ref=f4e114]:
+              - generic [ref=f4e115]: Risks
+              - heading "0" [level=5] [ref=f4e116]
+            - generic "Number of Associated Incidents" [ref=f4e118]:
+              - generic [ref=f4e119]: Incidents
+              - heading "0" [level=5] [ref=f4e120]
+      - list [ref=f4e125]:
+        - listitem "Overview" [ref=f4e126] [cursor=pointer]:
+          - generic [ref=f4e127]:
+            - img "undefined" [ref=f4e129]
+            - text: Overview
+        - listitem "PDF Preview" [ref=f4e130] [cursor=pointer]:
+          - generic [ref=f4e131]:
+            - img "undefined" [ref=f4e258]
+            - text: PDF Preview
+        - listitem "Clauses/Articles" [ref=f4e133] [cursor=pointer]:
+          - generic [ref=f4e134]:
+            - img "undefined" [ref=f4e259]
+            - text: Clauses/Articles
+        - listitem "Compliance Requirements" [ref=f4e136] [cursor=pointer]:
+          - generic [ref=f4e137]:
+            - img "undefined" [ref=f4e260]
+            - text: Compliance Requirements
+        - listitem "Action Plans" [ref=f4e139] [cursor=pointer]:
+          - generic [ref=f4e140]:
+            - img "undefined" [ref=f4e261]
+            - text: Action Plans
+      - generic [ref=f4e143]:
+        - button "More" [ref=f4e290] [cursor=pointer]
+        - generic [ref=f4e294]:
+          - textbox "Type to search..." [ref=f4e295]
+          - list [ref=f4e297]:
+            - listitem [ref=f4e298]:
+              - list [ref=f4e300]:
+                - listitem [ref=f4e302]:
+                  - generic [ref=f4e303]:
+                    - button "1. PW Req Clause 1 1757242500" [ref=f4e304] [cursor=pointer]
+                    - button [ref=f4e307] [cursor=pointer]
+                - listitem [ref=f4e415]:
+                  - generic [ref=f4e416]:
+                    - button "2. PW Req Clause 2 1757242500" [ref=f4e417] [cursor=pointer]
+                    - button [ref=f4e419] [cursor=pointer]
+          - button "Create New Clause" [ref=f4e309] [cursor=pointer]
+        - generic [ref=f4e311]:
+          - generic [ref=f4e314]:
+            - heading [level=2] [ref=f4e315]:
+              - button "Overview" [expanded] [ref=f4e316] [cursor=pointer]
+            - generic [ref=f4e321]:
+              - generic [ref=f4e322]:
+                - generic [ref=f4e323]: Title
+                - paragraph [ref=f4e324]: PW Req Clause 1 1757242500
+              - generic [ref=f4e325]:
+                - generic [ref=f4e326]: Description
+                - paragraph [ref=f4e327]: "--"
+              - generic [ref=f4e328]:
+                - generic [ref=f4e329]: Scope
+                - paragraph [ref=f4e330]: "--"
+              - generic [ref=f4e331]:
+                - generic [ref=f4e332]: Objective
+                - paragraph [ref=f4e333]: "--"
+          - generic [ref=f4e337]:
+            - heading "Associated Items" [level=4] [ref=f4e339]
+            - generic [ref=f4e340]:
+              - heading [level=2] [ref=f4e345]:
+                - button "Strategic Objectives 0" [ref=f4e346] [cursor=pointer]:
+                  - generic "Strategic Objectives" [ref=f4e347]
+                  - generic [ref=f4e348]: "0"
+              - heading [level=2] [ref=f4e353]:
+                - button "Processes 0" [ref=f4e354] [cursor=pointer]:
+                  - generic "Processes" [ref=f4e355]
+                  - generic [ref=f4e356]: "0"
+              - heading [level=2] [ref=f4e361]:
+                - button "Risks 0" [ref=f4e362] [cursor=pointer]:
+                  - generic "Risks" [ref=f4e363]
+                  - generic [ref=f4e364]: "0"
+              - heading [level=2] [ref=f4e369]:
+                - button "Controls 0" [ref=f4e370] [cursor=pointer]:
+                  - generic "Controls" [ref=f4e371]
+                  - generic [ref=f4e372]: "0"
+              - heading [level=2] [ref=f4e377]:
+                - button "Documents 0" [ref=f4e378] [cursor=pointer]:
+                  - generic "Documents" [ref=f4e379]
+                  - generic [ref=f4e380]: "0"
+              - heading [level=2] [ref=f4e385]:
+                - button "Assets 0" [ref=f4e386] [cursor=pointer]:
+                  - generic "Assets" [ref=f4e387]
+                  - generic [ref=f4e388]: "0"
+              - heading [level=2] [ref=f4e393]:
+                - button "Incidents 0" [ref=f4e394] [cursor=pointer]:
+                  - generic "Incidents" [ref=f4e395]
+                  - generic [ref=f4e396]: "0"
+        - generic [ref=f4e160]:
+          - generic [ref=f4e162]:
+            - heading "Add Clause" [level=3] [ref=f4e407]
+            - generic [ref=f4e165]:
+              - button "Cancel" [ref=f4e167] [cursor=pointer]
+              - generic [ref=f4e168]:
+                - button "Save & New" [disabled]
+              - generic [ref=f4e169]:
+                - button "Save" [disabled]
+          - generic [ref=f4e172]:
+            - generic [ref=f4e174]:
+              - generic [ref=f4e175]: Select Previous Clause
+              - generic [ref=f4e177]:
+                - generic [ref=f4e178]:
+                  - combobox [expanded] [active] [ref=f4e182]: Clause 2
+                  - button "Clear all" [ref=f4e434] [cursor=pointer]:
+                    - generic [aria-hidden]: ×
+                - listbox "Options List" [ref=f4e431]:
+                  - generic [ref=f4e432]: No items found
+                - status [ref=f4e183]: No items found
+            - generic [ref=f4e186]:
+              - paragraph [ref=f4e187]: Add as first clause
+              - checkbox [ref=f4e189]
+            - generic [ref=f4e191]:
+              - generic [ref=f4e193]:
+                - text: Title
+                - generic [ref=f4e194]: "*"
+              - textbox "Title *" [ref=f4e199]:
+                - /placeholder: Enter the title of the compliance
+            - generic [ref=f4e201]:
+              - generic [ref=f4e203]:
+                - text: العنوان
+                - generic [ref=f4e204]: "*"
+              - textbox "العنوان *" [ref=f4e209]:
+                - /placeholder: أدخل عنوان الامتثال
+            - generic [ref=f4e211]:
+              - generic [ref=f4e212]: Description
+              - textbox "Description" [ref=f4e217]:
+                - /placeholder: Provide a detailed description
+            - generic [ref=f4e219]:
+              - generic [ref=f4e220]: الوصف
+              - textbox "الوصف" [ref=f4e225]:
+                - /placeholder: قدم وصفًا مفصلاً
+            - generic [ref=f4e227]:
+              - generic [ref=f4e228]: Scope
+              - textbox "Scope" [ref=f4e233]:
+                - /placeholder: Provide a detailed scope
+            - generic [ref=f4e235]:
+              - generic [ref=f4e236]: النطاق
+              - textbox "النطاق" [ref=f4e241]:
+                - /placeholder: قدم نطاقًا مفصلاً
+            - generic [ref=f4e243]:
+              - generic [ref=f4e244]: Objective
+              - textbox "Objective" [ref=f4e249]:
+                - /placeholder: Provide a detailed objective
+            - generic [ref=f4e251]:
+              - generic [ref=f4e252]: الهدف
+              - textbox "الهدف" [ref=f4e257]:
+                - /placeholder: قدم هدفًا مفصلاً

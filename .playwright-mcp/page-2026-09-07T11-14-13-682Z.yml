@@ -1,0 +1,271 @@
+- generic [ref=f5e4]:
+  - generic:
+    - main:
+      - complementary [ref=f5e5]:
+        - heading [level=2] [ref=f5e7]:
+          - link [ref=f5e8] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - list [ref=f5e11]:
+          - listitem [ref=f5e12]:
+            - generic "Dashboards" [ref=f5e13] [cursor=pointer]
+          - listitem [ref=f5e15]:
+            - generic "Organization" [ref=f5e16] [cursor=pointer]
+          - listitem [ref=f5e18]:
+            - generic "Org. Context" [ref=f5e19] [cursor=pointer]
+          - listitem [ref=f5e21]:
+            - generic "Compliance" [ref=f5e22] [cursor=pointer]
+          - listitem [ref=f5e24]:
+            - generic "Risk" [ref=f5e25] [cursor=pointer]
+          - listitem [ref=f5e27]:
+            - generic "Document" [ref=f5e28] [cursor=pointer]
+          - listitem [ref=f5e30]:
+            - generic "Incident" [ref=f5e31] [cursor=pointer]
+          - listitem [ref=f5e33]:
+            - generic "Management Review" [ref=f5e34] [cursor=pointer]
+          - listitem:
+            - link "Setting" [ref=f5e36] [cursor=pointer]:
+              - /url: /settings
+  - generic [ref=f5e38]:
+    - generic:
+      - banner [ref=f5e39]:
+        - list [ref=f5e40]:
+          - listitem [ref=f5e41]:
+            - button [ref=f5e43] [cursor=pointer]:
+              - img "images" [ref=f5e44]
+          - listitem [ref=f5e45]:
+            - button "SA Super Admin" [ref=f5e47] [cursor=pointer]:
+              - generic [ref=f5e48]: SA
+              - generic [ref=f5e52]: Super Admin
+      - generic [ref=f5e53]:
+        - generic [ref=f5e54]:
+          - heading "Notification" [level=3] [ref=f5e55]
+          - link [ref=f5e56] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=f5e63]:
+          - heading [level=5]
+          - paragraph [ref=f5e64]: Youre all caught up! No new notifications at the moment
+    - generic [ref=f5e67]:
+      - generic [ref=f5e68]:
+        - generic [ref=f5e72]:
+          - link "Back" [ref=f5e73] [cursor=pointer]:
+            - /url: /compliance/register?view=list
+          - navigation "breadcrumb" [ref=f5e75]:
+            - list [ref=f5e76]:
+              - listitem "Compliance" [ref=f5e77]:
+                - link "Compliance" [ref=f5e78] [cursor=pointer]:
+                  - /url: /compliance/register?view=list
+              - listitem "PW Requirement Compliance 1757242500" [ref=f5e79]
+        - generic [ref=f5e80]:
+          - generic [ref=f5e81]:
+            - heading "PW Requirement Compliance 1757242500" [level=4] [ref=f5e82]
+            - generic [ref=f5e83]:
+              - generic [ref=f5e84]: "Ref No:"
+              - paragraph [ref=f5e85]: CR-2026-0026
+          - generic [ref=f5e86]:
+            - generic [ref=f5e87]:
+              - generic [ref=f5e89]:
+                - img "Severity" [ref=f5e91]
+                - generic [ref=f5e93]:
+                  - generic [ref=f5e94]: Severity
+                  - paragraph [ref=f5e95]:
+                    - generic [ref=f5e96]: High
+              - generic [ref=f5e98]:
+                - img "Compliance Status" [ref=f5e100]
+                - generic [ref=f5e102]:
+                  - generic [ref=f5e103]: Compliance Status
+                  - paragraph [ref=f5e104]: "--"
+            - generic "Number of Requirements" [ref=f5e106]:
+              - generic [ref=f5e107]: Req
+              - heading "4" [level=5] [ref=f5e108]
+            - generic "Number of Associated Controls" [ref=f5e110]:
+              - generic [ref=f5e111]: Controls
+              - heading "0" [level=5] [ref=f5e112]
+            - generic "compliance.number_of_associated_risk" [ref=f5e114]:
+              - generic [ref=f5e115]: Risks
+              - heading "0" [level=5] [ref=f5e116]
+            - generic "Number of Associated Incidents" [ref=f5e118]:
+              - generic [ref=f5e119]: Incidents
+              - heading "0" [level=5] [ref=f5e120]
+      - list [ref=f5e125]:
+        - listitem "Overview" [ref=f5e126] [cursor=pointer]:
+          - generic [ref=f5e127]:
+            - img "undefined" [ref=f5e129]
+            - text: Overview
+        - listitem "PDF Preview" [ref=f5e130] [cursor=pointer]:
+          - generic [ref=f5e131]:
+            - img "undefined" [ref=f5e133]
+            - text: PDF Preview
+        - listitem "Clauses/Articles" [ref=f5e134] [cursor=pointer]:
+          - generic [ref=f5e135]:
+            - img "undefined" [ref=f5e137]
+            - text: Clauses/Articles
+        - listitem "Compliance Requirements" [ref=f5e138] [cursor=pointer]:
+          - generic [ref=f5e139]:
+            - img "undefined" [ref=f5e141]
+            - text: Compliance Requirements
+        - listitem "Action Plans" [ref=f5e142] [cursor=pointer]:
+          - generic [ref=f5e143]:
+            - img "undefined" [ref=f5e145]
+            - text: Action Plans
+      - generic [ref=f5e147]:
+        - generic [ref=f5e152]:
+          - textbox "Type to search..." [ref=f5e157]
+          - button [ref=f5e161] [cursor=pointer]:
+            - img "undefined" [ref=f5e163]
+            - text: Customize
+          - button "More" [ref=f5e166] [cursor=pointer]
+          - button [ref=f5e168] [cursor=pointer]:
+            - img "undefined" [ref=f5e170]
+            - text: Add
+        - generic [ref=f5e173]:
+          - table [ref=f5e177]:
+            - rowgroup [ref=f5e178]:
+              - row [ref=f5e179]:
+                - columnheader "#" [ref=f5e180]
+                - columnheader "Clause No" [ref=f5e181]
+                - columnheader "Clause" [ref=f5e182]
+                - columnheader "Requirement" [ref=f5e183]
+                - columnheader "Category" [ref=f5e184]
+                - columnheader "Severity Level" [ref=f5e185]
+                - columnheader "Responsible Unit" [ref=f5e186]
+                - columnheader "Deadline" [ref=f5e187]
+                - columnheader "Compliance Status" [ref=f5e188]
+                - columnheader "Action" [ref=f5e189]
+            - rowgroup [ref=f5e190]:
+              - row [ref=f5e191] [cursor=pointer]:
+                - cell "1" [ref=f5e192]
+                - cell "1" [ref=f5e193]
+                - cell "PW Req Clause 1 1757242500" [ref=f5e195]
+                - cell "PW Req Item 2 1757242500" [ref=f5e197]
+                - cell [ref=f5e200]
+                - cell [ref=f5e201]
+                - cell "Employee Relations" [ref=f5e202]
+                - cell [ref=f5e204]
+                - cell [ref=f5e205]
+                - cell [ref=f5e206]:
+                  - button [ref=f5e208]
+              - row [ref=f5e210] [cursor=pointer]:
+                - cell "2" [ref=f5e211]
+                - cell "2" [ref=f5e212]
+                - cell "PW Req Clause 2 1757242500" [ref=f5e214]
+                - cell "PW Req Item 3 1757242500" [ref=f5e216]
+                - cell [ref=f5e219]
+                - cell [ref=f5e220]
+                - cell "Employee Relations" [ref=f5e221]
+                - cell [ref=f5e223]
+                - cell [ref=f5e224]
+                - cell [ref=f5e225]:
+                  - button [ref=f5e227]
+              - row [ref=f5e229] [cursor=pointer]:
+                - cell "3" [ref=f5e230]
+                - cell "3" [ref=f5e231]
+                - cell "PW Req Clause 3 1757242500" [ref=f5e233]
+                - cell "PW Req Item 4 1757242500" [ref=f5e235]
+                - cell [ref=f5e238]
+                - cell [ref=f5e239]
+                - cell "Employee Relations" [ref=f5e240]
+                - cell [ref=f5e242]
+                - cell [ref=f5e243]
+                - cell [ref=f5e244]:
+                  - button [ref=f5e246]
+              - row [ref=f5e248] [cursor=pointer]:
+                - cell "4" [ref=f5e249]
+                - cell "5" [ref=f5e250]
+                - cell "PW Req Clause 5 1757242500" [ref=f5e252]
+                - cell "PW Req Item 1 1757242500" [ref=f5e254]
+                - cell [ref=f5e257]
+                - cell [ref=f5e258]
+                - cell "Employee Relations" [ref=f5e259]
+                - cell [ref=f5e261]
+                - cell [ref=f5e262]
+                - cell [ref=f5e263]:
+                  - button [ref=f5e265]
+          - generic [ref=f5e268]:
+            - generic [ref=f5e270]:
+              - generic [ref=f5e271]: Per Page
+              - combobox [ref=f5e272]:
+                - option "10" [selected]
+                - option "20"
+                - option "100"
+                - option "500"
+                - option "1000"
+                - option "2000"
+              - generic [ref=f5e273]: Showing 1 to 4 of 4 items
+            - list [ref=f5e275]:
+              - listitem:
+                - generic:
+                  - generic: 
+                  - text: Previous
+              - listitem [ref=f5e276]:
+                - generic [ref=f5e277] [cursor=pointer]: "1"
+              - listitem:
+                - generic:
+                  - text: Next
+                  - generic: 
+        - generic [ref=f5e280]:
+          - generic [ref=f5e282]:
+            - heading "Add" [level=3] [ref=f5e284]
+            - generic [ref=f5e285]:
+              - button "Cancel" [ref=f5e287] [cursor=pointer]
+              - generic [ref=f5e288]:
+                - button "Save & New" [disabled]
+              - generic [ref=f5e289]:
+                - button "Save" [disabled]
+          - generic [ref=f5e292]:
+            - generic [ref=f5e294]:
+              - generic [ref=f5e296]:
+                - text: Clause
+                - generic [ref=f5e297]: "*"
+              - generic [ref=f5e298]:
+                - generic [ref=f5e300]:
+                  - generic [ref=f5e301]: Select Clause
+                  - combobox [expanded] [active] [ref=f5e303]
+                - listbox "Options List" [ref=f5e305]:
+                  - generic [ref=f5e306]: No items found
+                - status [ref=f5e308]: No items found
+            - generic [ref=f5e310]:
+              - generic [ref=f5e312]:
+                - text: Requirement
+                - generic [ref=f5e313]: "*"
+              - textbox "Requirement *" [ref=f5e317]:
+                - /placeholder: Provide a detailed requirement
+            - generic [ref=f5e319]:
+              - generic [ref=f5e321]:
+                - text: المتطلب
+                - generic [ref=f5e322]: "*"
+              - textbox "المتطلب *" [ref=f5e326]:
+                - /placeholder: قدم متطلبًا مفصلاً
+            - generic [ref=f5e328]:
+              - generic [ref=f5e329]: Category
+              - generic [ref=f5e331]:
+                - generic [ref=f5e333]:
+                  - generic [ref=f5e334]: Select category
+                  - combobox [ref=f5e336]
+                - status [ref=f5e337]
+            - generic [ref=f5e339]:
+              - generic [ref=f5e340]: Severity Level
+              - generic [ref=f5e342]:
+                - generic [ref=f5e344]:
+                  - generic [ref=f5e345]: Select severity level
+                  - combobox [ref=f5e347]
+                - status [ref=f5e348]
+            - generic [ref=f5e350]:
+              - generic [ref=f5e352]:
+                - text: Responsible Units
+                - generic [ref=f5e353]: "*"
+              - generic [ref=f5e354]:
+                - generic [ref=f5e356]:
+                  - generic [ref=f5e357]: Select responsible units
+                  - combobox [ref=f5e359]
+                - status [ref=f5e360]
+            - generic [ref=f5e362]:
+              - generic [ref=f5e363]: Compliance Deadline
+              - textbox "Compliance Deadline" [ref=f5e367] [cursor=pointer]:
+                - /placeholder: Select the compliance deadline
+            - generic [ref=f5e369]:
+              - generic [ref=f5e370]: Required Documents
+              - generic [ref=f5e372]:
+                - generic [ref=f5e374]:
+                  - generic [ref=f5e375]: Select the required documents
+                  - combobox [ref=f5e377]
+                - status [ref=f5e378]

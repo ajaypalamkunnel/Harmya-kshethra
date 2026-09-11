@@ -1,0 +1,267 @@
+- generic [ref=f12e4]:
+  - generic:
+    - main:
+      - complementary [ref=f12e5]:
+        - heading [level=2] [ref=f12e7]:
+          - link [ref=f12e8] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - list [ref=f12e11]:
+          - listitem [ref=f12e12]:
+            - generic "Dashboards" [ref=f12e13] [cursor=pointer]
+          - listitem [ref=f12e15]:
+            - generic "Organization" [ref=f12e16] [cursor=pointer]
+          - listitem [ref=f12e18]:
+            - generic "Org. Context" [ref=f12e19] [cursor=pointer]
+          - listitem [ref=f12e21]:
+            - generic "Compliance" [ref=f12e22] [cursor=pointer]
+          - listitem [ref=f12e24]:
+            - generic "Risk" [ref=f12e25] [cursor=pointer]
+          - listitem [ref=f12e27]:
+            - generic "Document" [ref=f12e28] [cursor=pointer]
+          - listitem [ref=f12e30]:
+            - generic "Incident" [ref=f12e31] [cursor=pointer]
+          - listitem [ref=f12e33]:
+            - generic "Management Review" [ref=f12e34] [cursor=pointer]
+          - listitem:
+            - link "Setting" [ref=f12e36] [cursor=pointer]:
+              - /url: /settings
+  - generic [ref=f12e38]:
+    - generic:
+      - banner [ref=f12e39]:
+        - list [ref=f12e40]:
+          - listitem [ref=f12e41]:
+            - button [ref=f12e43] [cursor=pointer]:
+              - img "images" [ref=f12e44]
+          - listitem [ref=f12e45]:
+            - button "SA Super Admin" [ref=f12e47] [cursor=pointer]:
+              - generic [ref=f12e48]: SA
+              - generic [ref=f12e52]: Super Admin
+      - generic [ref=f12e53]:
+        - generic [ref=f12e54]:
+          - heading "Notification" [level=3] [ref=f12e55]
+          - link [ref=f12e56] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=f12e63]:
+          - heading [level=5]
+          - paragraph [ref=f12e64]: Youre all caught up! No new notifications at the moment
+    - generic [ref=f12e67]:
+      - generic [ref=f12e68]:
+        - generic [ref=f12e72]:
+          - link "Back" [ref=f12e73] [cursor=pointer]:
+            - /url: /compliance/assessments
+          - navigation "breadcrumb" [ref=f12e75]:
+            - list [ref=f12e76]:
+              - listitem "Assessments" [ref=f12e77]:
+                - link "Assessments" [ref=f12e78] [cursor=pointer]:
+                  - /url: /compliance/assessments
+              - listitem "PW Control Assessment 1757242500" [ref=f12e79]
+        - generic [ref=f12e80]:
+          - generic [ref=f12e81]:
+            - heading "PW Control Compliance 1757242500" [level=4] [ref=f12e82]
+            - generic [ref=f12e83]:
+              - generic [ref=f12e84]: "Ref No:"
+              - paragraph [ref=f12e85]: CR-2026-0027
+          - generic [ref=f12e87]:
+            - generic [ref=f12e89]:
+              - img "Created At" [ref=f12e91]
+              - generic [ref=f12e93]:
+                - generic [ref=f12e94]: Created At
+                - paragraph [ref=f12e95]: Sep 7, 2026 2:22 PM
+            - generic [ref=f12e97]:
+              - img "Review User" [ref=f12e99]
+              - generic [ref=f12e101]:
+                - generic [ref=f12e102]: Review User
+                - paragraph [ref=f12e103]:
+                  - generic [ref=f12e104]:
+                    - generic [ref=f12e105]: AM
+                    - generic [ref=f12e108]: Athira M V
+            - generic [ref=f12e110]:
+              - img "Status" [ref=f12e112]
+              - generic [ref=f12e114]:
+                - generic [ref=f12e115]: Status
+                - paragraph [ref=f12e116]:
+                  - generic [ref=f12e117]: Draft
+            - generic [ref=f12e119]:
+              - img "Region1" [ref=f12e121]
+              - generic [ref=f12e123]:
+                - generic [ref=f12e124]: Region1
+                - paragraph [ref=f12e125]: Human Resources
+      - list [ref=f12e130]:
+        - listitem "Overview" [ref=f12e131] [cursor=pointer]:
+          - generic [ref=f12e132]:
+            - img "undefined" [ref=f12e134]
+            - text: Overview
+        - listitem "Statistics" [ref=f12e135] [cursor=pointer]:
+          - generic [ref=f12e136]:
+            - img "undefined" [ref=f12e138]
+            - text: Statistics
+      - generic [ref=f12e140]:
+        - generic [ref=f12e142]:
+          - generic [ref=f12e146]:
+            - generic [ref=f12e147]:
+              - generic:
+                - heading [level=4]
+            - list [ref=f12e151]:
+              - listitem [ref=f12e152]:
+                - list [ref=f12e154]:
+                  - listitem [ref=f12e156]:
+                    - generic [ref=f12e158]:
+                      - button "1 PW Ctrl Clause 1 17572..." [ref=f12e159] [cursor=pointer]
+                      - generic [ref=f12e161]: 1/1
+                    - generic [ref=f12e163]:
+                      - button "2 PW Ctrl Clause 2 17572..." [ref=f12e164] [cursor=pointer]
+                      - generic [ref=f12e165]: 1/1
+                    - generic [ref=f12e167]:
+                      - button "3 PW Ctrl Clause 3 17572..." [ref=f12e168] [cursor=pointer]
+                      - generic [ref=f12e169]: 1/1
+                    - generic [ref=f12e171]:
+                      - button "4 PW Ctrl Clause 4 17572..." [ref=f12e172] [cursor=pointer]
+                      - generic [ref=f12e173]: 0/1
+                    - generic [ref=f12e175]:
+                      - button "5 PW Ctrl Clause 5 17572..." [ref=f12e176] [cursor=pointer]
+                      - generic [ref=f12e177]: 0/1
+          - generic [ref=f12e178]:
+            - generic [ref=f12e179]:
+              - button "Status" [ref=f12e184] [cursor=pointer]
+              - generic [ref=f12e185]:
+                - generic [ref=f12e186]:
+                  - generic [ref=f12e187]: Assessment Summary
+                  - generic [ref=f12e188]: 60% Completed
+                - progressbar [ref=f12e381]
+              - generic [ref=f12e191]: Review History
+            - generic [ref=f12e590]:
+              - heading [level=2] [ref=f12e591]:
+                - button "Secure Configuration Standard" [expanded] [ref=f12e592] [cursor=pointer]
+              - generic [ref=f12e596]:
+                - generic [ref=f12e597]:
+                  - generic [ref=f12e599]:
+                    - generic [ref=f12e600]: Clause No
+                    - paragraph [ref=f12e601]: "4"
+                  - generic [ref=f12e603]:
+                    - generic [ref=f12e604]: Clause
+                    - paragraph [ref=f12e605]: PW Ctrl Clause 4 1757242500
+                  - generic [ref=f12e607]:
+                    - generic [ref=f12e608]: Description
+                    - paragraph [ref=f12e609]: "--"
+                  - generic [ref=f12e611]:
+                    - generic [ref=f12e612]: Control
+                    - paragraph [ref=f12e613]:
+                      - generic [ref=f12e614]: Secure Configuration Standard
+                  - generic [ref=f12e616]:
+                    - generic [ref=f12e617]: Current Implementation Status
+                    - paragraph [ref=f12e618]: "--"
+                - generic [ref=f12e619]:
+                  - generic [ref=f12e621]:
+                    - generic [ref=f12e623]:
+                      - generic [ref=f12e624]: "% of completion"
+                      - generic [ref=f12e625]:
+                        - spinbutton "Enter comment" [ref=f12e626]: "100"
+                        - generic [ref=f12e627]: Compliant (80 - 100)
+                    - generic [ref=f12e630]:
+                      - checkbox [ref=f12e631]
+                      - text: Not Applicable
+                    - generic [ref=f12e632]:
+                      - generic [ref=f12e633]:
+                        - generic [ref=f12e634]:
+                          - text: Comments
+                          - generic [ref=f12e635]: "*"
+                        - textbox "Comments *" [ref=f12e636]:
+                          - /placeholder: Enter comment
+                          - text: Scored 100 via E2E test
+                      - button "Update" [ref=f12e638] [cursor=pointer]
+                  - generic [ref=f12e639]:
+                    - separator [ref=f12e641]
+                    - heading "Other Documents" [level=4] [ref=f12e644] [cursor=pointer]
+                  - separator [ref=f12e648]
+                  - generic [ref=f12e649]:
+                    - heading "Add Action Plan" [level=4] [ref=f12e651] [cursor=pointer]
+                    - table [ref=f12e654]:
+                      - rowgroup [ref=f12e655]:
+                        - row [ref=f12e656]:
+                          - columnheader "Title" [ref=f12e657]
+                          - columnheader "Responsible User" [ref=f12e658]
+                          - columnheader "Target Date" [ref=f12e659]
+                          - columnheader "Action" [ref=f12e660]
+                      - rowgroup [ref=f12e661]:
+                        - row [ref=f12e662]:
+                          - cell "No records found!" [ref=f12e663]
+                    - button "Add Action Plan" [ref=f12e665] [cursor=pointer]
+                  - separator [ref=f12e667]
+                  - generic [ref=f12e668]:
+                    - heading "Comments" [level=4] [ref=f12e670] [cursor=pointer]
+                    - generic [ref=f12e675]:
+                      - textbox "Write your comment.." [ref=f12e677]
+                      - button [disabled] [ref=f12e679]:
+                        - img "Send" [ref=f12e680]
+                  - generic [ref=f12e682]:
+                    - separator [ref=f12e684]
+                    - button "Mark as Completed" [ref=f12e686] [cursor=pointer]
+            - generic [ref=f12e202]:
+              - generic [ref=f12e204]:
+                - generic [ref=f12e205]: Per Page
+                - combobox [ref=f12e206]:
+                  - option "10" [selected]
+                  - option "20"
+                  - option "100"
+                  - option "500"
+                  - option "1000"
+                  - option "2000"
+                - generic [ref=f12e207]: Showing 1 to 1 of 1 items
+              - list [ref=f12e209]:
+                - listitem:
+                  - generic:
+                    - generic: 
+                    - text: Previous
+                - listitem [ref=f12e210]:
+                  - generic [ref=f12e211] [cursor=pointer]: "1"
+                - listitem:
+                  - generic:
+                    - text: Next
+                    - generic: 
+        - generic [ref=f12e214]:
+          - generic [ref=f12e217]:
+            - button "Cancel" [ref=f12e219] [cursor=pointer]
+            - generic [ref=f12e220]:
+              - button "Save" [disabled]
+          - generic [ref=f12e223]:
+            - generic [ref=f12e225]:
+              - generic [ref=f12e227]:
+                - text: Title
+                - generic [ref=f12e228]: "*"
+              - textbox "Title *" [ref=f12e233]:
+                - /placeholder: Enter the action plan title
+            - generic [ref=f12e235]:
+              - generic [ref=f12e236]: Description
+              - textbox "Description" [ref=f12e241]:
+                - /placeholder: Provide a detailed description of the action plan
+            - generic [ref=f12e243]:
+              - generic [ref=f12e245]:
+                - text: Responsible User
+                - generic [ref=f12e246]: "*"
+              - generic [ref=f12e247]:
+                - generic [ref=f12e249]:
+                  - generic [ref=f12e250]: Select the responsible user
+                  - combobox [ref=f12e252]
+                - status [ref=f12e253]
+            - generic [ref=f12e255]:
+              - generic [ref=f12e256]: Review User
+              - generic [ref=f12e258]:
+                - generic [ref=f12e260]:
+                  - generic [ref=f12e261]: Select the review user
+                  - combobox [ref=f12e263]
+                - status [ref=f12e264]
+            - generic [ref=f12e266]:
+              - generic [ref=f12e268]:
+                - text: Severity Level
+                - generic [ref=f12e269]: "*"
+              - generic [ref=f12e270]:
+                - generic [ref=f12e272]:
+                  - generic [ref=f12e273]: Select severity level
+                  - combobox [ref=f12e275]
+                - status [ref=f12e276]
+            - generic [ref=f12e278]:
+              - generic [ref=f12e280]:
+                - text: Target Date
+                - generic [ref=f12e281]: "*"
+              - textbox "Target Date *" [ref=f12e284] [cursor=pointer]:
+                - /placeholder: Select the target date

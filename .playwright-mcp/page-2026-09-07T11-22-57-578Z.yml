@@ -1,0 +1,336 @@
+- generic [ref=f8e4]:
+  - generic:
+    - main:
+      - generic [ref=f8e5] [cursor=pointer]
+      - complementary [ref=f8e7]:
+        - heading [level=2] [ref=f8e9]:
+          - link [ref=f8e10] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - list [ref=f8e13]:
+          - listitem [ref=f8e14]:
+            - generic "Dashboards" [ref=f8e15] [cursor=pointer]
+          - listitem [ref=f8e17]:
+            - generic "Organization" [ref=f8e18] [cursor=pointer]
+          - listitem [ref=f8e20]:
+            - generic "Org. Context" [ref=f8e21] [cursor=pointer]
+          - listitem [ref=f8e23]:
+            - generic "Compliance" [ref=f8e24] [cursor=pointer]
+          - listitem [ref=f8e26]:
+            - generic "Risk" [ref=f8e27] [cursor=pointer]
+          - listitem [ref=f8e29]:
+            - generic "Document" [ref=f8e30] [cursor=pointer]
+          - listitem [ref=f8e32]:
+            - generic "Incident" [ref=f8e33] [cursor=pointer]
+          - listitem [ref=f8e35]:
+            - generic "Management Review" [ref=f8e36] [cursor=pointer]
+          - listitem:
+            - link "Setting" [ref=f8e38] [cursor=pointer]:
+              - /url: /settings
+  - generic [ref=f8e40]:
+    - generic:
+      - banner [ref=f8e41]:
+        - list [ref=f8e42]:
+          - listitem [ref=f8e43]:
+            - button [ref=f8e45] [cursor=pointer]:
+              - img "images" [ref=f8e46]
+          - listitem [ref=f8e47]:
+            - button "SA Super Admin" [ref=f8e49] [cursor=pointer]:
+              - generic [ref=f8e50]: SA
+              - generic [ref=f8e54]: Super Admin
+      - generic [ref=f8e55]:
+        - generic [ref=f8e56]:
+          - heading "Notification" [level=3] [ref=f8e57]
+          - link [ref=f8e58] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=f8e65]:
+          - heading [level=5]
+          - paragraph [ref=f8e66]: Youre all caught up! No new notifications at the moment
+    - generic [ref=f8e68]:
+      - generic [ref=f8e69]:
+        - generic [ref=f8e71]:
+          - button "Quick Filters" [ref=f8e72] [cursor=pointer]
+          - list [ref=f8e74]:
+            - listitem [ref=f8e75]:
+              - generic [ref=f8e76] [cursor=pointer]: All
+            - listitem [ref=f8e77]:
+              - generic [ref=f8e78] [cursor=pointer]: Draft
+            - listitem [ref=f8e79]:
+              - generic [ref=f8e80] [cursor=pointer]: In Review
+            - listitem [ref=f8e81]:
+              - generic [ref=f8e82] [cursor=pointer]: Approved
+        - generic [ref=f8e83]:
+          - separator [ref=f8e84]
+          - generic [ref=f8e85] [cursor=pointer]: Apply
+          - list [ref=f8e87]:
+            - listitem [ref=f8e88]:
+              - button "Dynamic Filters" [expanded] [ref=f8e89] [cursor=pointer]
+              - list [ref=f8e91]:
+                - listitem [ref=f8e92]:
+                  - button "Region1" [ref=f8e93] [cursor=pointer]
+                - listitem [ref=f8e94]:
+                  - button "Status" [ref=f8e95] [cursor=pointer]
+      - generic [ref=f8e98]:
+        - heading "Assessments" [level=2] [ref=f8e100]
+        - generic [ref=f8e101]:
+          - textbox "Type to search..." [ref=f8e106]
+          - button [ref=f8e110] [cursor=pointer]:
+            - img "undefined" [ref=f8e112]
+            - text: Customize
+          - button "More" [ref=f8e115] [cursor=pointer]
+          - button [ref=f8e117] [cursor=pointer]:
+            - img "undefined" [ref=f8e119]
+            - text: Add
+      - generic [ref=f8e122]:
+        - table [ref=f8e126]:
+          - rowgroup [ref=f8e127]:
+            - row [ref=f8e128]:
+              - columnheader "#" [ref=f8e129]
+              - columnheader "Assessment Title" [ref=f8e130] [cursor=pointer]
+              - columnheader "Compliance Register" [ref=f8e131] [cursor=pointer]
+              - columnheader "Region1" [ref=f8e132] [cursor=pointer]
+              - columnheader "Review User" [ref=f8e133] [cursor=pointer]
+              - columnheader "Status" [ref=f8e134] [cursor=pointer]
+              - columnheader "Created By" [ref=f8e135] [cursor=pointer]
+              - columnheader "Created At" [ref=f8e136] [cursor=pointer]
+              - columnheader "Action" [ref=f8e137]
+          - rowgroup [ref=f8e138]:
+            - row [ref=f8e513] [cursor=pointer]:
+              - cell "1" [ref=f8e514]
+              - cell "PW Control Assessment 1757242500" [ref=f8e515]
+              - cell "PW Control Compliance 1757242500" [ref=f8e517]
+              - cell "Human Resources" [ref=f8e519]
+              - cell "AM Athira M V" [ref=f8e521]:
+                - generic [ref=f8e524]:
+                  - generic [ref=f8e525]: AM
+                  - generic [ref=f8e526]: Athira M V
+              - cell "Draft" [ref=f8e527]
+              - cell "SA Super Admin" [ref=f8e530]:
+                - generic [ref=f8e533]:
+                  - generic [ref=f8e534]: SA
+                  - generic [ref=f8e535]: Super Admin
+              - cell "Sep 7, 2026 2:22 PM" [ref=f8e536]
+              - cell [ref=f8e538]:
+                - button [ref=f8e540]
+            - row [ref=f8e542] [cursor=pointer]:
+              - cell "2" [ref=f8e543]
+              - cell "PW Requirement Assessment 1757242500" [ref=f8e141]
+              - cell "PW Requirement Compliance 1757242500" [ref=f8e143]
+              - cell "Human Resources" [ref=f8e145]
+              - cell "AM Athira M V" [ref=f8e147]:
+                - generic [ref=f8e150]:
+                  - generic [ref=f8e151]: AM
+                  - generic [ref=f8e152]: Athira M V
+              - cell "Draft" [ref=f8e153]
+              - cell "SA Super Admin" [ref=f8e156]:
+                - generic [ref=f8e159]:
+                  - generic [ref=f8e160]: SA
+                  - generic [ref=f8e161]: Super Admin
+              - cell "Sep 7, 2026 2:20 PM" [ref=f8e162]
+              - cell [ref=f8e164]:
+                - button [ref=f8e166]
+            - row [ref=f8e544] [cursor=pointer]:
+              - cell "3" [ref=f8e545]
+              - cell "IT Governance Compliance" [ref=f8e170]
+              - cell "IT Governance Compliance" [ref=f8e172]
+              - cell "Information Technology" [ref=f8e174]
+              - cell "MN Maneesha N" [ref=f8e176]:
+                - generic [ref=f8e179]:
+                  - generic [ref=f8e180]: MN
+                  - generic [ref=f8e181]: Maneesha N
+              - cell "Draft" [ref=f8e182]
+              - cell "SA Super Admin" [ref=f8e185]:
+                - generic [ref=f8e188]:
+                  - generic [ref=f8e189]: SA
+                  - generic [ref=f8e190]: Super Admin
+              - cell "Sep 7, 2026 12:03 PM" [ref=f8e191]
+              - cell [ref=f8e193]:
+                - button [ref=f8e195]
+            - row [ref=f8e546] [cursor=pointer]:
+              - cell "4" [ref=f8e547]
+              - cell "IT Governance Compliance" [ref=f8e199]
+              - cell "IT Governance Compliance" [ref=f8e201]
+              - cell "Human Resources" [ref=f8e203]
+              - cell "MN Maneesha N" [ref=f8e205]:
+                - generic [ref=f8e208]:
+                  - generic [ref=f8e209]: MN
+                  - generic [ref=f8e210]: Maneesha N
+              - cell "Reverted" [ref=f8e211]
+              - cell "SA Super Admin" [ref=f8e214]:
+                - generic [ref=f8e217]:
+                  - generic [ref=f8e218]: SA
+                  - generic [ref=f8e219]: Super Admin
+              - cell "Sep 7, 2026 11:31 AM" [ref=f8e220]
+              - cell [ref=f8e222]:
+                - button [ref=f8e224]
+            - row [ref=f8e548] [cursor=pointer]:
+              - cell "5" [ref=f8e549]
+              - cell "Disaster Recovery Compliance" [ref=f8e228]
+              - cell "Disaster Recovery Compliance" [ref=f8e230]
+              - cell "Information Technology" [ref=f8e232]
+              - cell "MN Maneesha N" [ref=f8e234]:
+                - generic [ref=f8e237]:
+                  - generic [ref=f8e238]: MN
+                  - generic [ref=f8e239]: Maneesha N
+              - cell "Approved" [ref=f8e240]
+              - cell "AM Athira M V" [ref=f8e243]:
+                - generic [ref=f8e246]:
+                  - generic [ref=f8e247]: AM
+                  - generic [ref=f8e248]: Athira M V
+              - cell "Sep 7, 2026 11:13 AM" [ref=f8e249]
+              - cell [ref=f8e251]
+            - row [ref=f8e550] [cursor=pointer]:
+              - cell "6" [ref=f8e551]
+              - cell "Disaster Recovery Compliance" [ref=f8e254]
+              - cell "Disaster Recovery Compliance" [ref=f8e256]
+              - cell "Human Resources" [ref=f8e258]
+              - cell "MN Maneesha N" [ref=f8e260]:
+                - generic [ref=f8e263]:
+                  - generic [ref=f8e264]: MN
+                  - generic [ref=f8e265]: Maneesha N
+              - cell "Approved" [ref=f8e266]
+              - cell "SA Super Admin" [ref=f8e269]:
+                - generic [ref=f8e272]:
+                  - generic [ref=f8e273]: SA
+                  - generic [ref=f8e274]: Super Admin
+              - cell "Sep 7, 2026 11:02 AM" [ref=f8e275]
+              - cell [ref=f8e277]
+            - row [ref=f8e552] [cursor=pointer]:
+              - cell "7" [ref=f8e553]
+              - cell "Physical and Environmental Security" [ref=f8e280]
+              - cell "Physical and Environmental Security" [ref=f8e282]
+              - cell "Information Technology" [ref=f8e284]
+              - cell "MN Maneesha N" [ref=f8e286]:
+                - generic [ref=f8e289]:
+                  - generic [ref=f8e290]: MN
+                  - generic [ref=f8e291]: Maneesha N
+              - cell "In progress" [ref=f8e292]
+              - cell "SA Super Admin" [ref=f8e295]:
+                - generic [ref=f8e298]:
+                  - generic [ref=f8e299]: SA
+                  - generic [ref=f8e300]: Super Admin
+              - cell "Sep 7, 2026 10:32 AM" [ref=f8e301]
+              - cell [ref=f8e303]:
+                - button [ref=f8e305]
+            - row [ref=f8e554] [cursor=pointer]:
+              - cell "8" [ref=f8e555]
+              - cell "Data Protection and Privacy Compliance" [ref=f8e309]
+              - cell "Data Protection and Privacy Compliance" [ref=f8e311]
+              - cell "Information Technology" [ref=f8e313]
+              - cell "MN Maneesha N" [ref=f8e315]:
+                - generic [ref=f8e318]:
+                  - generic [ref=f8e319]: MN
+                  - generic [ref=f8e320]: Maneesha N
+              - cell "In progress" [ref=f8e321]
+              - cell "SA Super Admin" [ref=f8e324]:
+                - generic [ref=f8e327]:
+                  - generic [ref=f8e328]: SA
+                  - generic [ref=f8e329]: Super Admin
+              - cell "Sep 7, 2026 9:43 AM" [ref=f8e330]
+              - cell [ref=f8e332]:
+                - button [ref=f8e334]
+            - row [ref=f8e556] [cursor=pointer]:
+              - cell "9" [ref=f8e557]
+              - cell "Secure Software Development Compliance" [ref=f8e338]
+              - cell "Secure Software Development Compliance" [ref=f8e340]
+              - cell "Human Resources" [ref=f8e342]
+              - cell "MN Maneesha N" [ref=f8e344]:
+                - generic [ref=f8e347]:
+                  - generic [ref=f8e348]: MN
+                  - generic [ref=f8e349]: Maneesha N
+              - cell "Approved" [ref=f8e350]
+              - cell "SA Super Admin" [ref=f8e353]:
+                - generic [ref=f8e356]:
+                  - generic [ref=f8e357]: SA
+                  - generic [ref=f8e358]: Super Admin
+              - cell "Sep 4, 2026 2:41 PM" [ref=f8e359]
+              - cell [ref=f8e361]
+            - row [ref=f8e558] [cursor=pointer]:
+              - cell "10" [ref=f8e559]
+              - cell "Audit and Monitoring Compliance" [ref=f8e364]
+              - cell "Audit and Monitoring Compliance" [ref=f8e366]
+              - cell "Human Resources" [ref=f8e368]
+              - cell "MN Maneesha N" [ref=f8e370]:
+                - generic [ref=f8e373]:
+                  - generic [ref=f8e374]: MN
+                  - generic [ref=f8e375]: Maneesha N
+              - cell "Draft" [ref=f8e376]
+              - cell "SA Super Admin" [ref=f8e379]:
+                - generic [ref=f8e382]:
+                  - generic [ref=f8e383]: SA
+                  - generic [ref=f8e384]: Super Admin
+              - cell "Sep 4, 2026 2:27 PM" [ref=f8e385]
+              - cell [ref=f8e387]:
+                - button [ref=f8e389]
+        - generic [ref=f8e418]:
+          - generic [ref=f8e420]:
+            - generic [ref=f8e421]: Per Page
+            - combobox [ref=f8e422]:
+              - option "10" [selected]
+              - option "20"
+              - option "100"
+              - option "500"
+              - option "1000"
+              - option "2000"
+            - generic [ref=f8e423]: Showing 1 to 10 of 25 items
+          - list [ref=f8e425]:
+            - listitem:
+              - generic:
+                - generic: 
+                - text: Previous
+            - listitem [ref=f8e426]:
+              - generic [ref=f8e427] [cursor=pointer]: "1"
+            - listitem [ref=f8e428]:
+              - generic [ref=f8e429] [cursor=pointer]: "2"
+            - listitem [ref=f8e430]:
+              - generic [ref=f8e431] [cursor=pointer]: "3"
+            - listitem [ref=f8e432]:
+              - generic [ref=f8e433] [cursor=pointer]:
+                - text: Next
+                - generic [ref=f8e434]: 
+      - generic [ref=f8e438]:
+        - generic [ref=f8e440]:
+          - heading "Add Assessment" [level=3] [ref=f8e442]
+          - generic [ref=f8e443]:
+            - button "Cancel" [ref=f8e445] [cursor=pointer]
+            - generic [ref=f8e446]:
+              - button "Save & New" [disabled]
+            - generic [ref=f8e447]:
+              - button "Save" [disabled]
+        - generic [ref=f8e450]:
+          - generic [ref=f8e452]:
+            - generic [ref=f8e454]:
+              - text: Compliance Register
+              - generic [ref=f8e455]: "*"
+            - generic [ref=f8e456]:
+              - generic [ref=f8e458]:
+                - generic [ref=f8e560]: Select the Register
+                - combobox [ref=f8e461]
+              - status [ref=f8e463]
+          - generic [ref=f8e465]:
+            - generic [ref=f8e467]:
+              - text: Assessment Title
+              - generic [ref=f8e468]: "*"
+            - textbox "Assessment Title *" [ref=f8e473]:
+              - /placeholder: Enter the assessment title
+          - generic [ref=f8e475]:
+            - generic [ref=f8e477]:
+              - text: Review User
+              - generic [ref=f8e478]: "*"
+            - generic [ref=f8e479]:
+              - generic [ref=f8e481]:
+                - generic [ref=f8e482]: Select the review user
+                - combobox [ref=f8e484]
+              - status [ref=f8e485]
+          - generic [ref=f8e487]:
+            - generic [ref=f8e489]:
+              - text: Region1
+              - generic [ref=f8e490]: "*"
+            - generic [ref=f8e491]:
+              - generic [ref=f8e493]:
+                - generic [ref=f8e494]: Select Region1
+                - combobox [active] [ref=f8e496]
+              - status [ref=f8e497]
+          - generic [ref=f8e499]:
+            - generic [ref=f8e500]: Description
+            - textbox "Description" [ref=f8e505]:
+              - /placeholder: Provide a detailed description

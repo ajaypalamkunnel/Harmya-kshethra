@@ -1,0 +1,250 @@
+- generic [ref=f9e1]:
+  - generic [ref=f9e4]:
+    - complementary [ref=f9e5]:
+      - heading [level=2] [ref=f9e7]:
+        - link [ref=f9e8] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - list [ref=f9e11]:
+        - listitem [ref=f9e12]:
+          - generic [ref=f9e409] [cursor=pointer]
+        - listitem [ref=f9e15]:
+          - generic [ref=f9e410] [cursor=pointer]
+        - listitem [ref=f9e18]:
+          - generic [ref=f9e411] [cursor=pointer]
+        - listitem [ref=f9e21]:
+          - generic [ref=f9e412] [cursor=pointer]
+        - listitem [ref=f9e24]:
+          - generic [ref=f9e413] [cursor=pointer]
+        - listitem [ref=f9e27]:
+          - generic [ref=f9e414] [cursor=pointer]
+        - listitem [ref=f9e30]:
+          - generic [ref=f9e415] [cursor=pointer]
+        - listitem [ref=f9e33]:
+          - generic [ref=f9e416] [cursor=pointer]
+        - link [ref=f9e417] [cursor=pointer]:
+          - /url: /settings
+    - generic [ref=f9e38]:
+      - banner [ref=f9e39]:
+        - list [ref=f9e40]:
+          - listitem [ref=f9e41]:
+            - button [ref=f9e418] [cursor=pointer]
+          - listitem [ref=f9e45]:
+            - button [ref=f9e420] [cursor=pointer]:
+              - generic [ref=f9e48]: SA
+              - generic [ref=f9e52]: Super Admin
+      - generic [ref=f9e53]:
+        - generic [ref=f9e54]:
+          - heading [level=3] [ref=f9e421]: Notification
+          - link [ref=f9e56] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - paragraph [ref=f9e64]: Youre all caught up! No new notifications at the moment
+      - generic [ref=f9e67]:
+        - generic [ref=f9e68]:
+          - generic [ref=f9e72]:
+            - link [ref=f9e422] [cursor=pointer]:
+              - /url: /compliance/assessments
+              - text: Back
+            - navigation [ref=f9e423]:
+              - list [ref=f9e76]:
+                - listitem [ref=f9e424]:
+                  - link [ref=f9e425] [cursor=pointer]:
+                    - /url: /compliance/assessments
+                    - text: Assessments
+                - listitem [ref=f9e426]: PW Requirement Assessment 1757242500
+          - generic [ref=f9e80]:
+            - generic [ref=f9e81]:
+              - heading [level=4] [ref=f9e427]: PW Requirement Compliance 1757242500
+              - generic [ref=f9e83]:
+                - generic [ref=f9e84]: "Ref No:"
+                - paragraph [ref=f9e85]: CR-2026-0026
+            - generic [ref=f9e87]:
+              - generic [ref=f9e93]:
+                - generic [ref=f9e94]: Created At
+                - paragraph [ref=f9e95]: Sep 7, 2026 2:20 PM
+              - generic [ref=f9e101]:
+                - generic [ref=f9e102]: Review User
+                - paragraph [ref=f9e103]:
+                  - generic [ref=f9e104]:
+                    - generic [ref=f9e105]: AM
+                    - generic [ref=f9e108]: Athira M V
+              - generic [ref=f9e114]:
+                - generic [ref=f9e115]: Status
+                - paragraph [ref=f9e116]:
+                  - generic [ref=f9e117]: Draft
+              - generic [ref=f9e123]:
+                - generic [ref=f9e124]: Region1
+                - paragraph [ref=f9e125]: Human Resources
+        - list [ref=f9e130]:
+          - listitem [ref=f9e432] [cursor=pointer]:
+            - generic [ref=f9e132]: Overview
+          - listitem [ref=f9e434] [cursor=pointer]:
+            - generic [ref=f9e136]: Statistics
+        - generic [ref=f9e140]:
+          - generic [ref=f9e142]:
+            - list [ref=f9e151]:
+              - listitem [ref=f9e152]:
+                - list [ref=f9e154]:
+                  - listitem [ref=f9e156]:
+                    - generic [ref=f9e158]:
+                      - button [ref=f9e436] [cursor=pointer]:
+                        - generic [ref=f9e160]: 1 PW Req Clause 1 175724...
+                      - generic [ref=f9e161]: 0/1
+                    - generic [ref=f9e163]:
+                      - button [ref=f9e437] [cursor=pointer]: 2 PW Req Clause 2 175724...
+                      - generic [ref=f9e165]: 0/1
+                    - generic [ref=f9e167]:
+                      - button [ref=f9e438] [cursor=pointer]: 3 PW Req Clause 3 175724...
+                      - generic [ref=f9e169]: 0/1
+                    - generic [ref=f9e171]:
+                      - button [ref=f9e439] [cursor=pointer]: 4 PW Req Clause 4 175724...
+                      - generic [ref=f9e173]: 0/1
+                    - generic [ref=f9e175]:
+                      - button [ref=f9e440] [cursor=pointer]: 5 PW Req Clause 5 175724...
+                      - generic [ref=f9e177]: 0/1
+            - generic [ref=f9e178]:
+              - generic [ref=f9e179]:
+                - button [ref=f9e441] [cursor=pointer]: Export
+                - button [ref=f9e442] [cursor=pointer]: Status
+                - generic [ref=f9e194]:
+                  - generic [ref=f9e195]: Assessment Summary
+                  - generic [ref=f9e196]: 0% Completed
+                - generic [ref=f9e199]: Review History
+              - generic [ref=f9e205]:
+                - heading [level=2] [ref=f9e443]:
+                  - button [expanded] [ref=f9e444] [cursor=pointer]:
+                    - generic [ref=f9e445]: PW Req Item 2 1757242500
+                - generic [ref=f9e307]:
+                  - generic [ref=f9e308]:
+                    - generic [ref=f9e310]:
+                      - generic [ref=f9e311]: Clause No
+                      - paragraph [ref=f9e312]: "1"
+                    - generic [ref=f9e314]:
+                      - generic [ref=f9e315]: Clause
+                      - paragraph [ref=f9e316]: PW Req Clause 1 1757242500
+                    - generic [ref=f9e318]:
+                      - generic [ref=f9e319]: Description
+                      - paragraph [ref=f9e320]: "--"
+                    - generic [ref=f9e322]:
+                      - generic [ref=f9e323]: Compliance Requirement
+                      - paragraph [ref=f9e324]:
+                        - generic [ref=f9e325]: PW Req Item 2 1757242500
+                  - generic [ref=f9e326]:
+                    - list [ref=f9e328]:
+                      - listitem [ref=f9e446] [cursor=pointer]:
+                        - generic [ref=f9e330]: Employee Relations
+                    - generic [ref=f9e332]:
+                      - generic [ref=f9e334]:
+                        - generic [ref=f9e335]: "% of completion"
+                        - generic [ref=f9e336]:
+                          - spinbutton [ref=f9e447]: "100"
+                          - generic [ref=f9e338]: Compliant (80 - 100)
+                      - generic [ref=f9e341]:
+                        - checkbox [ref=f9e342]
+                        - text: Not Applicable
+                      - generic [ref=f9e343]:
+                        - generic [ref=f9e344]:
+                          - generic [ref=f9e345]:
+                            - text: Comments
+                            - generic [ref=f9e346]: "*"
+                          - textbox [ref=f9e448]:
+                            - /placeholder: Enter comment
+                            - text: Scored 100 via E2E test
+                        - button [ref=f9e449] [cursor=pointer]: Update
+                    - generic [ref=f9e350]:
+                      - separator [ref=f9e352]
+                      - generic [ref=f9e353]:
+                        - heading [level=4] [ref=f9e450] [cursor=pointer]: Other Documents
+                        - generic [ref=f9e364] [cursor=pointer]:
+                          - generic [ref=f9e366]: Drag and drop Files here or click here to upload
+                          - generic [ref=f9e367]: Upload
+                    - separator [ref=f9e371]
+                    - generic [ref=f9e372]:
+                      - heading [level=4] [ref=f9e451] [cursor=pointer]: Add Action Plan
+                      - table [ref=f9e377]:
+                        - rowgroup [ref=f9e378]:
+                          - row [ref=f9e452]:
+                            - columnheader [ref=f9e453]: Title
+                            - columnheader [ref=f9e454]: Responsible User
+                            - columnheader [ref=f9e455]: Target Date
+                        - rowgroup [ref=f9e383]:
+                          - row [ref=f9e456]:
+                            - cell [ref=f9e457]: No records found!
+                    - separator [ref=f9e387]
+                    - generic [ref=f9e388]:
+                      - heading [level=4] [ref=f9e458] [cursor=pointer]: Comments
+                      - generic [ref=f9e395]:
+                        - textbox [ref=f9e459]:
+                          - /placeholder: Write your comment..
+                        - button [disabled] [ref=f9e460]
+                    - generic [ref=f9e402]:
+                      - separator [ref=f9e404]
+                      - button [ref=f9e462] [cursor=pointer]: Mark as Completed
+              - generic [ref=f9e210]:
+                - generic [ref=f9e212]:
+                  - generic [ref=f9e213]: Per Page
+                  - combobox [ref=f9e214]
+                  - generic [ref=f9e215]: Showing 1 to 1 of 1 items
+                - list [ref=f9e217]:
+                  - listitem:
+                    - generic:
+                      - generic: 
+                      - text: Previous
+                  - listitem [ref=f9e218]:
+                    - generic [ref=f9e219] [cursor=pointer]: "1"
+                  - listitem:
+                    - generic:
+                      - text: Next
+                      - generic: 
+          - generic [ref=f9e222]:
+            - generic [ref=f9e224]:
+              - heading [level=3] [ref=f9e463]: Add
+              - generic [ref=f9e227]:
+                - button [ref=f9e464] [cursor=pointer]: Cancel
+                - button [ref=f9e465] [cursor=pointer]: Save & New
+                - button [ref=f9e466] [cursor=pointer]: Save
+            - generic [ref=f9e236]:
+              - generic [ref=f9e238]:
+                - generic [ref=f9e239]: Document
+                - generic [ref=f9e246] [cursor=pointer]:
+                  - generic [ref=f9e248]: Drag and drop Files here or click here to upload
+                  - generic [ref=f9e249]: Upload
+              - generic [ref=f9e251]:
+                - generic [ref=f9e252]: الوثيقة
+                - generic [ref=f9e259] [cursor=pointer]:
+                  - generic [ref=f9e261]: Drag and drop Files here or click here to upload
+                  - generic [ref=f9e262]: Upload
+          - generic [ref=f9e265]:
+            - generic [ref=f9e268]:
+              - button [ref=f9e467] [cursor=pointer]: Cancel
+              - generic [ref=f9e271]:
+                - button [disabled]: Save
+            - generic [ref=f9e274]:
+              - generic [ref=f9e276]:
+                - generic [ref=f9e278]:
+                  - text: Title
+                  - generic [ref=f9e279]: "*"
+                - textbox [ref=f9e468]:
+                  - /placeholder: Enter the action plan title
+              - generic [ref=f9e286]:
+                - generic [ref=f9e288]:
+                  - text: Responsible User
+                  - generic [ref=f9e289]: "*"
+                - generic [ref=f9e290]:
+                  - generic [ref=f9e292]:
+                    - generic [ref=f9e293]: Select the responsible user
+                    - combobox [ref=f9e295]
+                  - status [ref=f9e296]
+              - generic [ref=f9e298]:
+                - generic [ref=f9e300]:
+                  - text: Target Date
+                  - generic [ref=f9e301]: "*"
+                - textbox [ref=f9e469] [cursor=pointer]:
+                  - /placeholder: Select the target date
+  - dialog [ref=f9e471]:
+    - generic [ref=f9e472]: "!"
+    - heading "Confirm Completion" [level=2] [ref=f9e474]
+    - generic [ref=f9e475]: Are you sure want to mark this item as completed
+    - text: "!"
+    - generic [ref=f9e476]:
+      - button "Yes, Mark as Completed!" [active] [ref=f9e477] [cursor=pointer]
+      - button "Cancel" [ref=f9e478] [cursor=pointer]

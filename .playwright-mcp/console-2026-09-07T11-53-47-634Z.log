@@ -1,0 +1,13 @@
+[    1904ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[   42966ms] [ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ http://localhost:8080/compliance-assessments/38/requirements/36/approve:0
+[   42970ms] [ERROR] Failed to save data: HttpErrorResponse @ http://localhost:4200/chunk-W2FCHEDO.js:3921
+[   45165ms] [ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ http://localhost:8080/compliance-assessments/38/requirements/37/approve:0
+[   45168ms] [ERROR] Failed to save data: HttpErrorResponse @ http://localhost:4200/chunk-W2FCHEDO.js:3921
+[   47309ms] [ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ http://localhost:8080/compliance-assessments/38/requirements/38/approve:0
+[   47313ms] [ERROR] Failed to save data: HttpErrorResponse @ http://localhost:4200/chunk-W2FCHEDO.js:3921
+[   49857ms] [ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ http://localhost:8080/compliance-assessments/38/requirements/39/approve:0
+[   49861ms] [ERROR] Failed to save data: HttpErrorResponse @ http://localhost:4200/chunk-W2FCHEDO.js:3921
+[   51917ms] [ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ http://localhost:8080/compliance-assessments/38/requirements/40/approve:0
+[   51920ms] [ERROR] Failed to save data: HttpErrorResponse @ http://localhost:4200/chunk-W2FCHEDO.js:3921
+[  165038ms] [ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ http://localhost:8080/compliance-assessments/38/approve:0
+[  165048ms] [ERROR] Error while approve workflow: HttpErrorResponse @ http://localhost:4200/chunk-W2FCHEDO.js:2813

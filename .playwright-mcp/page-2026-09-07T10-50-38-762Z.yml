@@ -1,0 +1,311 @@
+- generic [ref=f1e4]:
+  - generic:
+    - main:
+      - complementary [ref=f1e5]:
+        - heading [level=2] [ref=f1e7]:
+          - link [ref=f1e8] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - list [ref=f1e11]:
+          - listitem [ref=f1e12]:
+            - generic "Dashboards" [ref=f1e13] [cursor=pointer]
+          - listitem [ref=f1e15]:
+            - generic "Organization" [ref=f1e16] [cursor=pointer]
+          - listitem [ref=f1e18]:
+            - generic "Org. Context" [ref=f1e19] [cursor=pointer]
+          - listitem [ref=f1e21]:
+            - generic "Compliance" [ref=f1e22] [cursor=pointer]
+            - list [ref=f1e416]:
+              - listitem [ref=f1e417]:
+                - link "Compliance Register" [ref=f1e418] [cursor=pointer]:
+                  - /url: /compliance/register
+              - listitem [ref=f1e419]:
+                - link "SLA & Contracts" [ref=f1e420] [cursor=pointer]:
+                  - /url: /compliance/sla-contracts
+              - listitem [ref=f1e421]:
+                - link "Controls" [ref=f1e422] [cursor=pointer]:
+                  - /url: /compliance/controls
+              - listitem [ref=f1e423]:
+                - link "Assessments" [ref=f1e424] [cursor=pointer]:
+                  - /url: /compliance/assessments
+              - listitem [ref=f1e425]:
+                - link "Policy Exceptions" [ref=f1e426] [cursor=pointer]:
+                  - /url: /compliance/policy-exception
+              - listitem [ref=f1e427]:
+                - link "Report" [ref=f1e428] [cursor=pointer]:
+                  - /url: /compliance/report
+              - listitem [ref=f1e429]:
+                - link "Evidence Submission" [ref=f1e430] [cursor=pointer]:
+                  - /url: /compliance/evidence-submissions
+              - listitem [ref=f1e431]:
+                - link "Compliance Action Plan" [ref=f1e432] [cursor=pointer]:
+                  - /url: /compliance/action-plans
+              - listitem [ref=f1e433]:
+                - link "Controls Action Plan" [ref=f1e434] [cursor=pointer]:
+                  - /url: /compliance/control-action-plans
+          - listitem [ref=f1e24]:
+            - generic "Risk" [ref=f1e25] [cursor=pointer]
+          - listitem [ref=f1e27]:
+            - generic "Document" [ref=f1e28] [cursor=pointer]
+          - listitem [ref=f1e30]:
+            - generic "Incident" [ref=f1e31] [cursor=pointer]
+          - listitem [ref=f1e33]:
+            - generic "Management Review" [ref=f1e34] [cursor=pointer]
+          - listitem:
+            - link "Setting" [ref=f1e36] [cursor=pointer]:
+              - /url: /settings
+  - generic [ref=f1e38]:
+    - generic:
+      - banner [ref=f1e39]:
+        - list [ref=f1e40]:
+          - listitem [ref=f1e41]:
+            - button [ref=f1e43] [cursor=pointer]:
+              - img "images" [ref=f1e44]
+          - listitem [ref=f1e45]:
+            - button "SA Super Admin" [ref=f1e47] [cursor=pointer]:
+              - generic [ref=f1e48]: SA
+              - generic [ref=f1e52]: Super Admin
+      - generic [ref=f1e53]:
+        - generic [ref=f1e54]:
+          - heading "Notification" [level=3] [ref=f1e55]
+          - link [ref=f1e56] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=f1e63]:
+          - heading [level=5]
+          - paragraph [ref=f1e64]: Youre all caught up! No new notifications at the moment
+    - generic [ref=f1e67]:
+      - generic [ref=f1e69]:
+        - generic [ref=f1e70]:
+          - button [ref=f1e72] [cursor=pointer]:
+            - img "Edit" [ref=f1e73]
+            - text: Edit Profile
+          - generic [ref=f1e74]:
+            - img "Profile Logo" [ref=f1e75]
+            - generic:
+              - button "Upload"
+              - img "Upload" [ref=f1e78] [cursor=pointer]
+          - heading "Alshaya Group" [level=3] [ref=f1e79]
+          - generic [ref=f1e80]:
+            - img "undefined" [ref=f1e83]
+            - paragraph [ref=f1e84]: Burj Alshaya Al Soor Street Al Mirqab, Kuwait
+          - generic [ref=f1e85]:
+            - img "undefined" [ref=f1e88]
+            - paragraph [ref=f1e89]: Kuwait
+          - separator [ref=f1e90]
+          - generic [ref=f1e91]:
+            - img "undefined" [ref=f1e94]
+            - generic [ref=f1e95]:
+              - generic [ref=f1e96]: Industry
+              - paragraph [ref=f1e97]: Branding
+          - generic [ref=f1e98]:
+            - img "undefined" [ref=f1e101]
+            - generic [ref=f1e102]:
+              - generic [ref=f1e103]: Email
+              - paragraph [ref=f1e104]: alshaya@gmail.com
+          - generic [ref=f1e105]:
+            - img "undefined" [ref=f1e108]
+            - generic [ref=f1e109]:
+              - generic [ref=f1e110]: Phone
+              - paragraph [ref=f1e111]: "96522242000"
+          - generic [ref=f1e112]:
+            - generic [ref=f1e113]: On the Web
+            - list [ref=f1e114]:
+              - listitem [ref=f1e115]:
+                - link [ref=f1e116] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/jethur/
+                  - img "LinkedIn" [ref=f1e117]
+              - listitem [ref=f1e118]:
+                - link [ref=f1e119] [cursor=pointer]:
+                  - /url: https://x.com/?lang=e
+                  - img "Twitter" [ref=f1e120]
+              - listitem [ref=f1e121]:
+                - link [ref=f1e122] [cursor=pointer]:
+                  - /url: https://www.instagram.com/?hl=en
+                  - img "Instagram" [ref=f1e123]
+              - listitem [ref=f1e124]:
+                - link [ref=f1e125] [cursor=pointer]:
+                  - /url: https://www.facebook.com/login/
+                  - img "Facebook" [ref=f1e126]
+              - listitem [ref=f1e127]:
+                - link [ref=f1e128] [cursor=pointer]:
+                  - /url: https://ww.youtube.com/
+                  - img "YouTube" [ref=f1e129]
+          - separator [ref=f1e130]
+          - generic [ref=f1e133]:
+            - generic [ref=f1e134]: About
+            - paragraph [ref=f1e135]:
+              - generic [ref=f1e136]:
+                - text: Alshaya Group is a dynamic family-owned enterprise, first established in Kuwait in 1890. With a consistent record of growth and innovation, Alshaya Group is one of the world’s leading brand franchise operators, offering an unparalleled choice of w...
+                - link "Read More" [ref=f1e137] [cursor=pointer]:
+                  - /url: javascript:void(0)
+        - generic [ref=f1e140]:
+          - generic [ref=f1e142]:
+            - heading "Add" [level=3] [ref=f1e144]
+            - generic [ref=f1e145]:
+              - button "Cancel" [ref=f1e147] [cursor=pointer]
+              - generic [ref=f1e148]:
+                - button "Save" [disabled]
+          - generic [ref=f1e151]:
+            - heading "Details" [level=4] [ref=f1e153]
+            - generic [ref=f1e155]:
+              - generic [ref=f1e157]:
+                - text: Company Name
+                - generic [ref=f1e158]: "*"
+              - textbox "Company Name * Title" [ref=f1e163]:
+                - /placeholder: Enter company name
+            - generic [ref=f1e165]:
+              - generic [ref=f1e167]:
+                - text: Email
+                - generic [ref=f1e168]: "*"
+              - textbox "Email *" [ref=f1e169]:
+                - /placeholder: Enter email
+            - generic [ref=f1e171]:
+              - generic [ref=f1e173]:
+                - text: Phone
+                - generic [ref=f1e174]: "*"
+              - spinbutton "Phone *" [ref=f1e175]
+            - generic [ref=f1e177]:
+              - generic [ref=f1e179]:
+                - text: Industry
+                - generic [ref=f1e180]: "*"
+              - textbox "Industry *" [ref=f1e185]:
+                - /placeholder: Enter industry
+            - generic [ref=f1e187]:
+              - generic [ref=f1e189]:
+                - text: Location
+                - generic [ref=f1e190]: "*"
+              - textbox "Location *" [ref=f1e195]:
+                - /placeholder: Enter location
+            - generic [ref=f1e197]:
+              - generic [ref=f1e199]:
+                - text: Address
+                - generic [ref=f1e200]: "*"
+              - textbox "Address *" [ref=f1e204]:
+                - /placeholder: Enter address
+            - generic [ref=f1e206]:
+              - generic [ref=f1e208]:
+                - text: About
+                - generic [ref=f1e209]: "*"
+              - textbox "About *" [ref=f1e213]:
+                - /placeholder: Enter about
+            - generic [ref=f1e215]:
+              - generic [ref=f1e216]: Linkedin
+              - textbox "Linkedin" [ref=f1e222]:
+                - /placeholder: Enter linkedIn
+            - generic [ref=f1e224]:
+              - generic [ref=f1e225]: X(Twitter)
+              - textbox "X(Twitter)" [ref=f1e231]:
+                - /placeholder: Enter x
+            - generic [ref=f1e233]:
+              - generic [ref=f1e234]: Instagram
+              - textbox "Instagram" [ref=f1e240]:
+                - /placeholder: Enter instagram
+            - generic [ref=f1e242]:
+              - generic [ref=f1e243]: Facebook
+              - textbox "Facebook" [ref=f1e249]:
+                - /placeholder: Enter facebook
+            - generic [ref=f1e251]:
+              - generic [ref=f1e252]: Youtube
+              - textbox "Youtube" [ref=f1e258]:
+                - /placeholder: Enter youTube
+      - generic [ref=f1e259]:
+        - generic [ref=f1e264]:
+          - text: 
+          - heading "Vision" [level=4] [ref=f1e265]
+          - paragraph [ref=f1e266]: Our vision is to become a world-leading retailer of the best international brands with winning partnerships that last....
+        - generic [ref=f1e271]:
+          - text: 
+          - heading "Mission" [level=4] [ref=f1e272]
+          - paragraph [ref=f1e273]: Our mission is to give our customers the experiences they want, with the brands they love, in the ways they choose....
+        - generic [ref=f1e278]:
+          - heading "Values" [level=4] [ref=f1e279]
+          - list [ref=f1e280]:
+            - listitem [ref=f1e281]:
+              - generic [ref=f1e282]:
+                - heading "ACT SMALL" [level=6] [ref=f1e283]
+                - paragraph [ref=f1e284]: Focus on simple, practical actions that create meaningful results. Pay attention to details, take ownership of daily responsibilities, and contribute consistently to continuous improvement.
+              - button [ref=f1e288] [cursor=pointer]
+            - listitem [ref=f1e290]:
+              - generic [ref=f1e291]:
+                - heading "BE YOU" [level=6] [ref=f1e292]
+                - paragraph [ref=f1e293]: Be authentic, confident, and true to your values. Encourage open communication, respect individuality, and bring your unique strengths to support team and organizational success.
+              - button [ref=f1e297] [cursor=pointer]
+            - listitem [ref=f1e299]:
+              - generic [ref=f1e300]:
+                - heading "THINK BIG" [level=6] [ref=f1e301]
+                - paragraph [ref=f1e302]: Embrace a forward-thinking mindset by looking beyond immediate tasks and focusing on long-term goals, innovation, and sustainable growth. Think Big encourages identifying opportunities for improvement, creating scalable solutions, and making decisions that deliver greater value to the organization and its future success.
+              - button [ref=f1e306] [cursor=pointer]
+            - listitem [ref=f1e308]:
+              - generic [ref=f1e309]:
+                - heading "Strengthen regulatory compliance and reduce audit findings." [level=6] [ref=f1e310]
+                - paragraph [ref=f1e311]: Deliver measurable business value by improving risk visibility, streamlining compliance processes, enhancing operational efficiency, reducing regulatory exposure, and fostering a culture of accountability and continuous improvement.
+              - button [ref=f1e315] [cursor=pointer]
+        - generic [ref=f1e317]:
+          - generic [ref=f1e321]:
+            - heading "Strategic Objectives" [level=4] [ref=f1e322]
+            - generic [ref=f1e323]:
+              - generic [ref=f1e324]:
+                - generic [ref=f1e325]:
+                  - heading "Strengthen Governance" [level=4] [ref=f1e326]
+                  - paragraph [ref=f1e327]: Establish clear governance structures, roles, and accountability across the organization.
+                - button [ref=f1e332] [cursor=pointer]
+              - generic [ref=f1e334]:
+                - generic [ref=f1e335]:
+                  - heading "Business Continuity & Resilience" [level=4] [ref=f1e336]
+                  - paragraph [ref=f1e337]: Strengthen organizational resilience by ensuring critical business processes can continue during disruptions and recover within defined timelines.
+                - button [ref=f1e342] [cursor=pointer]
+              - generic [ref=f1e344]:
+                - generic [ref=f1e345]:
+                  - heading "Enhance Business Continuity" [level=4] [ref=f1e346]
+                  - paragraph [ref=f1e347]: Ensure uninterrupted delivery of critical business operations by strengthening continuity planning and recovery capabilities.
+                - button [ref=f1e352] [cursor=pointer]
+            - generic [ref=f1e355]:
+              - generic [ref=f1e357]:
+                - generic [ref=f1e358]: Per Page
+                - combobox [ref=f1e359]:
+                  - option "5" [selected]
+                  - option "10"
+                  - option "20"
+                  - option "100"
+                  - option "500"
+                  - option "1000"
+                  - option "2000"
+                - generic [ref=f1e360]: Showing 1 to 3 of 3 items
+              - list [ref=f1e362]:
+                - listitem:
+                  - generic:
+                    - generic: 
+                    - text: Previous
+                - listitem [ref=f1e363]:
+                  - generic [ref=f1e364] [cursor=pointer]: "1"
+                - listitem:
+                  - generic:
+                    - text: Next
+                    - generic: 
+          - generic [ref=f1e367]:
+            - generic [ref=f1e369]:
+              - heading "Add" [level=3] [ref=f1e371]
+              - generic [ref=f1e372]:
+                - button "Cancel" [ref=f1e374] [cursor=pointer]
+                - generic [ref=f1e375]:
+                  - button "Save & New" [disabled]
+                - generic [ref=f1e376]:
+                  - button "Save" [disabled]
+            - generic [ref=f1e379]:
+              - generic [ref=f1e381]:
+                - generic [ref=f1e383]:
+                  - text: Title
+                  - generic [ref=f1e384]: "*"
+                - textbox "Title *" [ref=f1e389]:
+                  - /placeholder: Enter the title
+              - generic [ref=f1e391]:
+                - generic [ref=f1e392]: عنوان
+                - textbox "عنوان" [ref=f1e398]:
+                  - /placeholder: أدخل العنوان
+              - generic [ref=f1e400]:
+                - generic [ref=f1e401]: Description
+                - textbox "Description" [ref=f1e406]:
+                  - /placeholder: Enter detailed description of the strategic objective
+              - generic [ref=f1e408]:
+                - generic [ref=f1e409]: وصف
+                - textbox "وصف" [ref=f1e414]:
+                  - /placeholder: أدخل الوصف

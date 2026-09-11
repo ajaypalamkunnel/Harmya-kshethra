@@ -1,0 +1,6 @@
+[    1616ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[    4129ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ http://localhost:4200/auth/login:0
+[  114244ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[  115167ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:8080/strategic-profiles/preview-image?t=1788778223160:0
+[  115183ms] [ERROR] An error occurred: HttpErrorResponse @ http://localhost:4200/main.js:2430
+[  115184ms] [ERROR] Error fetching logo: HttpErrorResponse @ http://localhost:4200/chunk-VKEYXFWM.js:285

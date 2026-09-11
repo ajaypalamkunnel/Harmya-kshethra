@@ -1,0 +1,504 @@
+- generic [ref=f13e4]:
+  - generic:
+    - main:
+      - generic [ref=f13e492] [cursor=pointer]
+      - complementary [ref=f13e5]:
+        - heading [level=2] [ref=f13e7]:
+          - link [ref=f13e8] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - list [ref=f13e11]:
+          - listitem [ref=f13e12]:
+            - generic "Dashboards" [ref=f13e13] [cursor=pointer]
+          - listitem [ref=f13e15]:
+            - generic "Organization" [ref=f13e16] [cursor=pointer]
+          - listitem [ref=f13e18]:
+            - generic "Org. Context" [ref=f13e19] [cursor=pointer]
+          - listitem [ref=f13e21]:
+            - generic "Compliance" [ref=f13e22] [cursor=pointer]
+          - listitem [ref=f13e24]:
+            - generic "Risk" [ref=f13e25] [cursor=pointer]
+          - listitem [ref=f13e27]:
+            - generic "Document" [ref=f13e28] [cursor=pointer]
+          - listitem [ref=f13e30]:
+            - generic "Incident" [ref=f13e31] [cursor=pointer]
+          - listitem [ref=f13e33]:
+            - generic "Management Review" [ref=f13e34] [cursor=pointer]
+          - listitem:
+            - link "Setting" [ref=f13e36] [cursor=pointer]:
+              - /url: /settings
+  - generic [ref=f13e38]:
+    - generic:
+      - banner [ref=f13e39]:
+        - list [ref=f13e40]:
+          - listitem [ref=f13e41]:
+            - button [ref=f13e43] [cursor=pointer]:
+              - img "images" [ref=f13e44]
+          - listitem [ref=f13e45]:
+            - button "SA Super Admin" [ref=f13e47] [cursor=pointer]:
+              - generic [ref=f13e48]: SA
+              - generic [ref=f13e52]: Super Admin
+      - generic [ref=f13e53]:
+        - generic [ref=f13e54]:
+          - heading "Notification" [level=3] [ref=f13e55]
+          - link [ref=f13e56] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=f13e63]:
+          - heading [level=5]
+          - paragraph [ref=f13e64]: Youre all caught up! No new notifications at the moment
+    - generic [ref=f13e66]:
+      - generic [ref=f13e67]:
+        - generic [ref=f13e69]:
+          - button "Quick Filters" [ref=f13e70] [cursor=pointer]
+          - list [ref=f13e72]:
+            - listitem [ref=f13e73]:
+              - generic [ref=f13e74] [cursor=pointer]: All
+            - listitem [ref=f13e75]:
+              - generic [ref=f13e76] [cursor=pointer]: Latest
+            - listitem [ref=f13e77]:
+              - generic [ref=f13e78] [cursor=pointer]: Compliant
+            - listitem [ref=f13e79]:
+              - generic [ref=f13e80] [cursor=pointer]: Partially Compliant
+            - listitem [ref=f13e81]:
+              - generic [ref=f13e82] [cursor=pointer]: Non Compliant
+            - listitem [ref=f13e83]:
+              - generic [ref=f13e84] [cursor=pointer]: Not Applicable
+        - generic [ref=f13e85]:
+          - separator [ref=f13e86]
+          - generic [ref=f13e87] [cursor=pointer]: Apply
+          - list [ref=f13e89]:
+            - listitem [ref=f13e90]:
+              - button "Dynamic Filters" [expanded] [ref=f13e91] [cursor=pointer]
+              - list [ref=f13e93]:
+                - listitem [ref=f13e94]:
+                  - button "Severity Level" [ref=f13e95] [cursor=pointer]
+                - listitem [ref=f13e96]:
+                  - button "Category" [ref=f13e97] [cursor=pointer]
+                - listitem [ref=f13e98]:
+                  - button "Compliance Status" [ref=f13e99] [cursor=pointer]
+                - listitem [ref=f13e100]:
+                  - button "Review Frequency" [ref=f13e101] [cursor=pointer]
+                - listitem [ref=f13e102]:
+                  - button "Assessment Framework" [ref=f13e103] [cursor=pointer]
+                - listitem [ref=f13e104]:
+                  - button "Responsible User" [ref=f13e105] [cursor=pointer]
+                - listitem [ref=f13e106]:
+                  - button "Review Responsible User" [ref=f13e107] [cursor=pointer]
+      - generic [ref=f13e110]:
+        - heading "Compliance Register" [level=2] [ref=f13e112]
+        - generic [ref=f13e113]:
+          - textbox "Type to search..." [ref=f13e118]
+          - button [ref=f13e497] [cursor=pointer]:
+            - img "undefined" [ref=f13e499]
+            - text: Customize
+          - button "More" [ref=f13e502] [cursor=pointer]
+          - list [ref=f13e120]:
+            - listitem [ref=f13e121]:
+              - img "undefined" [ref=f13e124] [cursor=pointer]
+            - listitem [ref=f13e125]:
+              - img "undefined" [ref=f13e128]
+          - button "Actions" [ref=f13e506] [cursor=pointer]
+      - generic [ref=f13e509]:
+        - table [ref=f13e513]:
+          - rowgroup [ref=f13e514]:
+            - row [ref=f13e515]:
+              - columnheader "#" [ref=f13e516]
+              - columnheader "Reference Number " [ref=f13e517] [cursor=pointer]:
+                - text: Reference Number
+                - generic [ref=f13e518]: 
+              - columnheader "Title" [ref=f13e520] [cursor=pointer]
+              - columnheader "Category" [ref=f13e521] [cursor=pointer]
+              - columnheader "Responsible User" [ref=f13e522] [cursor=pointer]
+              - columnheader "Severity Level" [ref=f13e523] [cursor=pointer]
+              - columnheader "Compliance Status" [ref=f13e524] [cursor=pointer]
+              - columnheader "Action" [ref=f13e525]
+          - rowgroup [ref=f13e526]:
+            - row [ref=f13e527] [cursor=pointer]:
+              - cell "1" [ref=f13e528]
+              - cell "CR-2026-0027" [ref=f13e529]
+              - cell "PW Control Compliance 1757242500" [ref=f13e531]
+              - cell "Anti-Corruption Compliance" [ref=f13e533]
+              - cell "AV Athira Varier M V" [ref=f13e535]:
+                - generic [ref=f13e538]:
+                  - generic [ref=f13e539]: AV
+                  - generic [ref=f13e540]: Athira Varier M V
+              - cell "High" [ref=f13e541]
+              - cell [ref=f13e544]
+              - cell [ref=f13e545]:
+                - button [ref=f13e547]
+            - row [ref=f13e549] [cursor=pointer]:
+              - cell "2" [ref=f13e550]
+              - cell "CR-2026-0026" [ref=f13e551]
+              - cell "PW Requirement Compliance 1757242500" [ref=f13e553]
+              - cell "Anti-Corruption Compliance" [ref=f13e555]
+              - cell "AV Athira Varier M V" [ref=f13e557]:
+                - generic [ref=f13e560]:
+                  - generic [ref=f13e561]: AV
+                  - generic [ref=f13e562]: Athira Varier M V
+              - cell "High" [ref=f13e563]
+              - cell [ref=f13e566]
+              - cell [ref=f13e567]:
+                - button [ref=f13e569]
+            - row [ref=f13e571] [cursor=pointer]:
+              - cell "3" [ref=f13e572]
+              - cell "CR-2026-0025" [ref=f13e573]
+              - cell "IT Governance Compliance" [ref=f13e575]
+              - cell "Cybersecurity Compliance" [ref=f13e577]
+              - cell "SA Super Admin" [ref=f13e579]:
+                - generic [ref=f13e582]:
+                  - generic [ref=f13e583]: SA
+                  - generic [ref=f13e584]: Super Admin
+              - cell "Medium" [ref=f13e585]
+              - cell "Compliant" [ref=f13e588]
+              - cell [ref=f13e591]:
+                - button [ref=f13e593]
+            - row [ref=f13e595] [cursor=pointer]:
+              - cell "4" [ref=f13e596]
+              - cell "CR-2026-0024" [ref=f13e597]
+              - cell "Disaster Recovery Compliance" [ref=f13e599]
+              - cell "Anti-Corruption Compliance" [ref=f13e601]
+              - cell "SA Super Admin" [ref=f13e603]:
+                - generic [ref=f13e606]:
+                  - generic [ref=f13e607]: SA
+                  - generic [ref=f13e608]: Super Admin
+              - cell "Medium" [ref=f13e609]
+              - cell "Not Implemented" [ref=f13e612]
+              - cell [ref=f13e615]:
+                - button [ref=f13e617]
+            - row [ref=f13e619] [cursor=pointer]:
+              - cell "5" [ref=f13e620]
+              - cell "CR-2026-0023" [ref=f13e621]
+              - cell "Physical and Environmental Security" [ref=f13e623]
+              - cell "Anti-Corruption Compliance" [ref=f13e625]
+              - cell "SA Super Admin" [ref=f13e627]:
+                - generic [ref=f13e630]:
+                  - generic [ref=f13e631]: SA
+                  - generic [ref=f13e632]: Super Admin
+              - cell "Medium" [ref=f13e633]
+              - cell "Compliant" [ref=f13e636]
+              - cell [ref=f13e639]:
+                - button [ref=f13e641]
+            - row [ref=f13e643] [cursor=pointer]:
+              - cell "6" [ref=f13e644]
+              - cell "CR-2026-0022" [ref=f13e645]
+              - cell "Data Protection and Privacy Compliance" [ref=f13e647]
+              - cell "Anti-Corruption Compliance" [ref=f13e649]
+              - cell "AM Athira M V" [ref=f13e651]:
+                - generic [ref=f13e654]:
+                  - generic [ref=f13e655]: AM
+                  - generic [ref=f13e656]: Athira M V
+              - cell "Medium" [ref=f13e657]
+              - cell "Partially Compliant" [ref=f13e660]
+              - cell [ref=f13e663]:
+                - button [ref=f13e665]
+            - row [ref=f13e667] [cursor=pointer]:
+              - cell "7" [ref=f13e668]
+              - cell "CR-2026-0021" [ref=f13e669]
+              - cell "Secure Software Development Compliance" [ref=f13e671]
+              - cell "Anti-Corruption Compliance" [ref=f13e673]
+              - cell "MN Maneesha N" [ref=f13e675]:
+                - generic [ref=f13e678]:
+                  - generic [ref=f13e679]: MN
+                  - generic [ref=f13e680]: Maneesha N
+              - cell "Medium" [ref=f13e681]
+              - cell "Partially Compliant" [ref=f13e684]
+              - cell [ref=f13e687]:
+                - button [ref=f13e689]
+            - row [ref=f13e691] [cursor=pointer]:
+              - cell "8" [ref=f13e692]
+              - cell "CR-2026-0020" [ref=f13e693]
+              - cell "Audit and Monitoring Compliance" [ref=f13e695]
+              - cell "Cybersecurity Compliance" [ref=f13e697]
+              - cell "SA Super Admin" [ref=f13e699]:
+                - generic [ref=f13e702]:
+                  - generic [ref=f13e703]: SA
+                  - generic [ref=f13e704]: Super Admin
+              - cell "Medium" [ref=f13e705]
+              - cell "Partially Compliant" [ref=f13e708]
+              - cell [ref=f13e711]:
+                - button [ref=f13e713]
+            - row [ref=f13e715] [cursor=pointer]:
+              - cell "9" [ref=f13e716]
+              - cell "CR-2026-0019" [ref=f13e717]
+              - cell "Information Security Compliance" [ref=f13e719]
+              - cell "Cybersecurity Compliance" [ref=f13e721]
+              - cell "SA Super Admin" [ref=f13e723]:
+                - generic [ref=f13e726]:
+                  - generic [ref=f13e727]: SA
+                  - generic [ref=f13e728]: Super Admin
+              - cell "Medium" [ref=f13e729]
+              - cell "Partially Compliant" [ref=f13e732]
+              - cell [ref=f13e735]:
+                - button [ref=f13e737]
+            - row [ref=f13e739] [cursor=pointer]:
+              - cell "10" [ref=f13e740]
+              - cell "CR-2026-0018" [ref=f13e741]
+              - cell "Data Protection and Privacy Compliance" [ref=f13e743]
+              - cell "Anti-Corruption Compliance" [ref=f13e745]
+              - cell "AM Athira M V" [ref=f13e747]:
+                - generic [ref=f13e750]:
+                  - generic [ref=f13e751]: AM
+                  - generic [ref=f13e752]: Athira M V
+              - cell "Medium" [ref=f13e753]
+              - cell "Partially Compliant" [ref=f13e756]
+              - cell [ref=f13e759]:
+                - button [ref=f13e761]
+        - generic [ref=f13e764]:
+          - generic [ref=f13e766]:
+            - generic [ref=f13e767]: Per Page
+            - combobox [ref=f13e768]:
+              - option "10" [selected]
+              - option "20"
+              - option "100"
+              - option "500"
+              - option "1000"
+              - option "2000"
+            - generic [ref=f13e769]: Showing 1 to 10 of 20 items
+          - list [ref=f13e771]:
+            - listitem:
+              - generic:
+                - generic: 
+                - text: Previous
+            - listitem [ref=f13e772]:
+              - generic [ref=f13e773] [cursor=pointer]: "1"
+            - listitem [ref=f13e774]:
+              - generic [ref=f13e775] [cursor=pointer]: "2"
+            - listitem [ref=f13e776]:
+              - generic [ref=f13e777] [cursor=pointer]:
+                - text: Next
+                - generic [ref=f13e778]: 
+      - generic [ref=f13e162]:
+        - generic [ref=f13e164]:
+          - heading "Update Compliance Register" [level=3] [ref=f13e780]
+          - generic [ref=f13e167]:
+            - button "Cancel" [ref=f13e169] [cursor=pointer]
+            - button "Update" [ref=f13e781] [cursor=pointer]
+        - generic [ref=f13e173]:
+          - generic [ref=f13e174]:
+            - heading "Compliance Details" [level=4] [ref=f13e176]
+            - generic [ref=f13e178]:
+              - generic [ref=f13e180]:
+                - text: Standard/Regulatory Code
+                - generic [ref=f13e181]: "*"
+              - textbox "Standard/Regulatory Code *" [ref=f13e186]:
+                - /placeholder: Enter the standard or regulatory code
+                - text: REQ-1757242500
+            - generic [ref=f13e188]:
+              - generic [ref=f13e190]:
+                - text: Version
+                - generic [ref=f13e191]: "*"
+              - textbox "Version * Version *" [ref=f13e196]:
+                - /placeholder: Specify the version
+                - text: "1.0"
+            - generic [ref=f13e198]:
+              - generic [ref=f13e200]:
+                - text: Title
+                - generic [ref=f13e201]: "*"
+              - generic [ref=f13e205]:
+                - textbox "Title *" [ref=f13e206]:
+                  - /placeholder: Enter the title of the compliance
+                  - text: PW Requirement Compliance 1757242500
+                - generic [ref=f13e782] [cursor=pointer]: Jethur AI – Smart Auto Form Fill
+            - generic [ref=f13e208]:
+              - generic [ref=f13e210]:
+                - text: العنوان
+                - generic [ref=f13e211]: "*"
+              - textbox "العنوان *" [ref=f13e216]:
+                - /placeholder: أدخل عنوان الامتثال
+                - text: PW Requirement Compliance Ar 1757242500
+            - generic [ref=f13e219]:
+              - generic [ref=f13e220]:
+                - generic [ref=f13e221]: Description
+                - button [ref=f13e786] [cursor=pointer]
+              - textbox "Description Description" [ref=f13e224]:
+                - /placeholder: Provide a detailed description
+                - text: PW Requirement Compliance Description
+            - generic [ref=f13e226]:
+              - generic [ref=f13e227]: الوصف
+              - textbox "الوصف الوصف" [ref=f13e232]:
+                - /placeholder: قدم وصفًا مفصلاً
+                - text: PW Requirement Compliance Ar Description
+            - generic [ref=f13e234]:
+              - generic [ref=f13e236]:
+                - text: Assessment Type
+                - generic [ref=f13e237]: "*"
+              - generic [ref=f13e788]:
+                - generic [ref=f13e789]:
+                  - radio "Requirement" [checked] [ref=f13e790]
+                  - generic [ref=f13e791]: Requirement
+                - generic [ref=f13e792]:
+                  - radio "Control" [ref=f13e793]
+                  - generic [ref=f13e794]: Control
+            - generic [ref=f13e239]:
+              - generic [ref=f13e241]:
+                - text: Severity Level
+                - generic [ref=f13e242]: "*"
+              - generic [ref=f13e243]:
+                - generic [ref=f13e244]:
+                  - generic [ref=f13e245]:
+                    - generic [ref=f13e795]: High
+                    - combobox [ref=f13e248]
+                  - button "Clear all" [ref=f13e796] [cursor=pointer]:
+                    - generic [aria-hidden]: ×
+                - status [ref=f13e249]
+            - generic [ref=f13e251]:
+              - generic [ref=f13e253]:
+                - text: Category
+                - generic [ref=f13e254]: "*"
+              - generic [ref=f13e255]:
+                - generic [ref=f13e256]:
+                  - generic [ref=f13e257]:
+                    - generic [ref=f13e797]: Anti-Corruption Compliance
+                    - combobox [ref=f13e260]
+                  - button "Clear all" [ref=f13e798] [cursor=pointer]:
+                    - generic [aria-hidden]: ×
+                - status [ref=f13e261]
+            - generic [ref=f13e263]:
+              - generic [ref=f13e265]:
+                - text: Assessment Framework
+                - generic [ref=f13e266]: "*"
+              - generic [ref=f13e267]:
+                - generic [ref=f13e268]:
+                  - generic [ref=f13e269]:
+                    - generic [ref=f13e799]: Percentage Scoring
+                    - combobox [ref=f13e272]
+                  - button "Clear all" [ref=f13e800] [cursor=pointer]:
+                    - generic [aria-hidden]: ×
+                - status [ref=f13e273]
+            - generic [ref=f13e275]:
+              - generic [ref=f13e276]: Compliance Folder
+              - generic [ref=f13e278]:
+                - generic [ref=f13e280]:
+                  - generic [ref=f13e281]: Select Compliance Folder
+                  - combobox [ref=f13e283]
+                - status [ref=f13e284]
+            - generic [ref=f13e286]:
+              - generic [ref=f13e288]:
+                - text: Document
+                - generic [ref=f13e289]: "*"
+              - generic [ref=f13e293]:
+                - button "dummy-compliance.pdf 47 Bytes Upload & Replace"
+                - generic [ref=f13e802] [cursor=pointer]:
+                  - generic [ref=f13e804]:
+                    - text: dummy-compliance.pdf
+                    - generic [ref=f13e806]: 47 Bytes
+                  - generic [ref=f13e809]: Upload & Replace
+            - generic [ref=f13e300]:
+              - generic [ref=f13e302]:
+                - text: الوثيقة
+                - generic [ref=f13e303]: "*"
+              - generic [ref=f13e307]:
+                - button "dummy-compliance.pdf 47 Bytes Upload & Replace"
+                - generic [ref=f13e811] [cursor=pointer]:
+                  - generic [ref=f13e813]:
+                    - text: dummy-compliance.pdf
+                    - generic [ref=f13e815]: 47 Bytes
+                  - generic [ref=f13e818]: Upload & Replace
+          - separator [ref=f13e315]
+          - generic [ref=f13e316]:
+            - heading "Compliance Status Details" [level=4] [ref=f13e318]
+            - generic [ref=f13e320]:
+              - generic [ref=f13e321]: Deadline Date
+              - textbox "Deadline Date" [ref=f13e325] [cursor=pointer]:
+                - /placeholder: Select the deadline date
+            - generic [ref=f13e327]:
+              - generic [ref=f13e328]: Compliance Status
+              - generic [ref=f13e330]:
+                - generic [ref=f13e332]:
+                  - generic [ref=f13e333]: Select compliance status
+                  - combobox [ref=f13e335]
+                - status [ref=f13e336]
+            - generic [ref=f13e338]:
+              - generic [ref=f13e339]: Issue Date
+              - textbox "Issue Date" [ref=f13e343] [cursor=pointer]:
+                - /placeholder: Select the issue date
+            - generic [ref=f13e345]:
+              - generic [ref=f13e346]: Expiry Date
+              - textbox "Expiry Date" [ref=f13e350] [cursor=pointer]:
+                - /placeholder: Select the expiry date
+          - separator [ref=f13e353]
+          - generic [ref=f13e354]:
+            - heading "Responsibility Review & Oversight" [level=4] [ref=f13e356]
+            - generic [ref=f13e358]:
+              - generic [ref=f13e360]:
+                - text: Responsible User
+                - generic [ref=f13e361]: "*"
+              - generic [ref=f13e362]:
+                - generic [ref=f13e363]:
+                  - generic [ref=f13e364]:
+                    - generic [ref=f13e819]: Super Admin
+                    - combobox [active] [ref=f13e367]
+                  - button "Clear all" [ref=f13e820] [cursor=pointer]:
+                    - generic [aria-hidden]: ×
+                - status [ref=f13e368]
+            - generic [ref=f13e370]:
+              - generic [ref=f13e371]: Review Frequency
+              - generic [ref=f13e373]:
+                - generic [ref=f13e375]:
+                  - generic [ref=f13e376]: Select the review frequency
+                  - combobox [ref=f13e378]
+                - status [ref=f13e379]
+            - generic [ref=f13e381]:
+              - generic [ref=f13e382]: Review Status
+              - generic [ref=f13e384]:
+                - generic [ref=f13e386]:
+                  - generic [ref=f13e387]: Select the review status
+                  - combobox [ref=f13e389]
+                - status [ref=f13e390]
+            - generic [ref=f13e392]:
+              - generic [ref=f13e393]: Review Responsible User
+              - generic [ref=f13e395]:
+                - generic [ref=f13e397]:
+                  - generic [ref=f13e398]: Select the review responsible user
+                  - combobox [ref=f13e400]
+                - status [ref=f13e401]
+            - generic [ref=f13e403]:
+              - generic [ref=f13e404]: Last Review Notes
+              - textbox "Last Review Notes" [ref=f13e409]:
+                - /placeholder: Enter last review notes
+      - generic [ref=f13e412]:
+        - generic [ref=f13e414]:
+          - heading "Add" [level=3] [ref=f13e416]
+          - generic [ref=f13e417]:
+            - button "Cancel" [ref=f13e419] [cursor=pointer]
+            - generic [ref=f13e420]:
+              - button "Save" [disabled]
+        - generic [ref=f13e423]:
+          - heading "Compliance Details" [level=4] [ref=f13e425]
+          - generic [ref=f13e427]:
+            - generic [ref=f13e429]:
+              - text: Standard/Regulatory Code
+              - generic [ref=f13e430]: "*"
+            - generic [ref=f13e431]:
+              - generic [ref=f13e433]:
+                - generic [ref=f13e434]: Select the standard or regulatory code
+                - combobox [ref=f13e436]
+              - status [ref=f13e437]
+          - generic [ref=f13e439]:
+            - generic [ref=f13e441]:
+              - text: Version
+              - generic [ref=f13e442]: "*"
+            - textbox "Specify the version" [ref=f13e447]
+          - generic [ref=f13e449]:
+            - generic [ref=f13e450]: Description
+            - textbox "Provide a detailed description" [ref=f13e455]
+          - generic [ref=f13e457]:
+            - generic [ref=f13e458]: الوصف
+            - textbox "قدم وصفًا مفصلاً" [ref=f13e463]
+          - generic [ref=f13e465]:
+            - generic [ref=f13e467]:
+              - text: Document
+              - generic [ref=f13e468]: "*"
+            - generic [ref=f13e472]:
+              - button "Drag and drop Files here or click here to upload Upload"
+              - generic [ref=f13e474] [cursor=pointer]:
+                - generic [ref=f13e476]: Drag and drop Files here or click here to upload
+                - generic [ref=f13e477]: Upload
+          - generic [ref=f13e479]:
+            - generic [ref=f13e481]:
+              - text: الوثيقة
+              - generic [ref=f13e482]: "*"
+            - generic [ref=f13e486]:
+              - button "Drag and drop Files here or click here to upload Upload"
+              - generic [ref=f13e488] [cursor=pointer]:
+                - generic [ref=f13e490]: Drag and drop Files here or click here to upload
+                - generic [ref=f13e491]: Upload

@@ -1,0 +1,197 @@
+- generic [ref=f1e4]:
+  - generic:
+    - main:
+      - complementary [ref=f1e5]:
+        - heading [level=2] [ref=f1e7]:
+          - link [ref=f1e8] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - list [ref=f1e11]:
+          - listitem [ref=f1e12]:
+            - generic "Dashboards" [ref=f1e13] [cursor=pointer]
+          - listitem [ref=f1e15]:
+            - generic "Organization" [ref=f1e16] [cursor=pointer]
+          - listitem [ref=f1e18]:
+            - generic "Org. Context" [ref=f1e19] [cursor=pointer]
+          - listitem [ref=f1e21]:
+            - generic "Compliance" [ref=f1e22] [cursor=pointer]
+          - listitem [ref=f1e24]:
+            - generic "Risk" [ref=f1e25] [cursor=pointer]
+          - listitem [ref=f1e27]:
+            - generic "Document" [ref=f1e28] [cursor=pointer]
+          - listitem [ref=f1e30]:
+            - generic "Incident" [ref=f1e31] [cursor=pointer]
+          - listitem [ref=f1e33]:
+            - generic "Management Review" [ref=f1e34] [cursor=pointer]
+          - listitem:
+            - link "Setting" [ref=f1e36] [cursor=pointer]:
+              - /url: /settings
+  - generic [ref=f1e38]:
+    - generic:
+      - banner [ref=f1e39]:
+        - list [ref=f1e40]:
+          - listitem [ref=f1e41]:
+            - button [ref=f1e43] [cursor=pointer]:
+              - img "images" [ref=f1e44]
+          - listitem [ref=f1e45]:
+            - button "SA Super Admin" [ref=f1e47] [cursor=pointer]:
+              - generic [ref=f1e48]: SA
+              - generic [ref=f1e52]: Super Admin
+      - generic [ref=f1e53]:
+        - generic [ref=f1e54]:
+          - heading "Notification" [level=3] [ref=f1e55]
+          - link [ref=f1e56] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=f1e63]:
+          - heading [level=5]
+          - paragraph [ref=f1e64]: Youre all caught up! No new notifications at the moment
+    - generic [ref=f1e1448]:
+      - generic [ref=f1e1449]:
+        - generic [ref=f1e1453]:
+          - link "Back" [ref=f1e1454] [cursor=pointer]:
+            - /url: /compliance/register?view=list
+          - navigation "breadcrumb" [ref=f1e1456]:
+            - list [ref=f1e1457]:
+              - listitem "Compliance" [ref=f1e1458]:
+                - link "Compliance" [ref=f1e1459] [cursor=pointer]:
+                  - /url: /compliance/register?view=list
+              - listitem "PW Requirement Compliance 1757242500" [ref=f1e1460]
+        - generic [ref=f1e1461]:
+          - generic [ref=f1e1462]:
+            - heading "PW Requirement Compliance 1757242500" [level=4] [ref=f1e1463]
+            - generic [ref=f1e1464]:
+              - generic [ref=f1e1465]: "Ref No:"
+              - paragraph [ref=f1e1466]: CR-2026-0026
+          - generic [ref=f1e1467]:
+            - generic [ref=f1e1468]:
+              - generic [ref=f1e1470]:
+                - img "Severity" [ref=f1e1472]
+                - generic [ref=f1e1474]:
+                  - generic [ref=f1e1475]: Severity
+                  - paragraph [ref=f1e1476]:
+                    - generic [ref=f1e1477]: High
+              - generic [ref=f1e1479]:
+                - img "Compliance Status" [ref=f1e1481]
+                - generic [ref=f1e1483]:
+                  - generic [ref=f1e1484]: Compliance Status
+                  - paragraph [ref=f1e1485]: "--"
+            - generic "Number of Requirements" [ref=f1e1487]:
+              - generic [ref=f1e1488]: Req
+              - heading "0" [level=5] [ref=f1e1489]
+            - generic "Number of Associated Controls" [ref=f1e1491]:
+              - generic [ref=f1e1492]: Controls
+              - heading "0" [level=5] [ref=f1e1493]
+            - generic "compliance.number_of_associated_risk" [ref=f1e1495]:
+              - generic [ref=f1e1496]: Risks
+              - heading "0" [level=5] [ref=f1e1497]
+            - generic "Number of Associated Incidents" [ref=f1e1499]:
+              - generic [ref=f1e1500]: Incidents
+              - heading "0" [level=5] [ref=f1e1501]
+      - list [ref=f1e1506]:
+        - listitem "Overview" [ref=f1e1507] [cursor=pointer]:
+          - generic [ref=f1e1508]:
+            - img "undefined" [ref=f1e1510]
+            - text: Overview
+        - listitem "PDF Preview" [ref=f1e1511] [cursor=pointer]:
+          - generic [ref=f1e1512]:
+            - img "undefined" [ref=f1e1514]
+            - text: PDF Preview
+        - listitem "Clauses/Articles" [ref=f1e1515] [cursor=pointer]:
+          - generic [ref=f1e1516]:
+            - img "undefined" [ref=f1e1518]
+            - text: Clauses/Articles
+        - listitem "Compliance Requirements" [ref=f1e1519] [cursor=pointer]:
+          - generic [ref=f1e1520]:
+            - img "undefined" [ref=f1e1522]
+            - text: Compliance Requirements
+        - listitem "Action Plans" [ref=f1e1523] [cursor=pointer]:
+          - generic [ref=f1e1524]:
+            - img "undefined" [ref=f1e1526]
+            - text: Action Plans
+      - generic [ref=f1e1529]:
+        - generic [ref=f1e1530]:
+          - generic [ref=f1e1533]:
+            - heading "Compliance Details" [level=4] [ref=f1e1536]
+            - generic [ref=f1e1537]:
+              - generic [ref=f1e1539]:
+                - generic [ref=f1e1540]: Standard/Code
+                - paragraph [ref=f1e1541]: REQ-1757242500
+              - generic [ref=f1e1543]:
+                - generic [ref=f1e1544]: Title
+                - paragraph [ref=f1e1545]: PW Requirement Compliance 1757242500
+              - generic [ref=f1e1547]:
+                - generic [ref=f1e1548]: Category
+                - paragraph [ref=f1e1549]: Anti-Corruption Compliance
+              - generic [ref=f1e1551]:
+                - generic [ref=f1e1552]: Version
+                - paragraph [ref=f1e1553]: "1.0"
+              - generic [ref=f1e1555]:
+                - generic [ref=f1e1556]: Severity Level
+                - paragraph [ref=f1e1557]:
+                  - generic [ref=f1e1558]: High
+              - generic [ref=f1e1560]:
+                - generic [ref=f1e1561]: Responsible Unit
+                - paragraph [ref=f1e1562]: Recruitment
+              - generic [ref=f1e1564]:
+                - generic [ref=f1e1565]: Responsible User
+                - generic [ref=f1e1566]:
+                  - generic [ref=f1e1567]: AV
+                  - generic [ref=f1e1570]: Athira Varier M V
+              - generic [ref=f1e1572]:
+                - generic [ref=f1e1573]: Assessment Framework
+                - paragraph [ref=f1e1574]: Percentage Scoring
+              - generic [ref=f1e1576]:
+                - generic [ref=f1e1577]: Assessment Type
+                - paragraph [ref=f1e1578]: Requirement
+              - generic [ref=f1e1580]:
+                - generic [ref=f1e1581]: Document
+                - link "dummy-compliance.pdf" [ref=f1e1586] [cursor=pointer]:
+                  - /url: http://localhost:8080/compliance-register/35/document-download?token=9c5be089b31559afd2d37581fdfaa74b2e4fda9bdee041e9ffdaf60528e532f8d59e3dc9964fc0eab7dc928b40708550e96d1c8acabf64fb
+              - generic [ref=f1e1588]:
+                - generic [ref=f1e1589]: Description
+                - paragraph [ref=f1e1590]:
+                  - generic [ref=f1e1591]: PW Requirement Compliance Description
+            - table [ref=f1e1597]:
+              - rowgroup [ref=f1e1598]:
+                - row [ref=f1e1599]:
+                  - columnheader "#" [ref=f1e1600]
+                  - columnheader "Version Number" [ref=f1e1601]
+                  - columnheader "Reference Number" [ref=f1e1602]
+                  - columnheader "Description" [ref=f1e1603]
+                  - columnheader "Documents" [ref=f1e1604]
+                  - columnheader "Updated At" [ref=f1e1605]
+              - rowgroup [ref=f1e1606]:
+                - row [ref=f1e1607]:
+                  - cell "No records found!" [ref=f1e1608]
+          - generic [ref=f1e1611]:
+            - heading "Compliance Status" [level=4] [ref=f1e1614]
+            - generic [ref=f1e1616]:
+              - generic [ref=f1e1617]: Compliance Status
+              - paragraph [ref=f1e1618]: "--"
+            - generic [ref=f1e1620]:
+              - generic [ref=f1e1621]: Updated At
+              - paragraph [ref=f1e1622]: "--"
+            - generic [ref=f1e1624]:
+              - generic [ref=f1e1625]: Updated By
+              - paragraph [ref=f1e1626]: "--"
+            - generic [ref=f1e1628]:
+              - generic [ref=f1e1629]: Compliance Deadline
+              - paragraph [ref=f1e1630]: "--"
+            - generic [ref=f1e1632]:
+              - generic [ref=f1e1633]: Issue Date
+              - paragraph [ref=f1e1634]: "--"
+            - generic [ref=f1e1636]:
+              - generic [ref=f1e1637]: Expiry Date
+              - paragraph [ref=f1e1638]: "--"
+          - generic [ref=f1e1641]:
+            - heading "Risk Heatmap" [level=4] [ref=f1e1644]
+            - generic [ref=f1e1649]:
+              - heading "No identified or analyzed risks under this process" [level=5] [ref=f1e1650]
+              - paragraph [ref=f1e1651]: Chart will be displayed here once data becomes available.
+          - generic [ref=f1e1655]:
+            - generic [ref=f1e1656]: "Created by:"
+            - paragraph [ref=f1e1657]: Super Admin on Sep 7, 2026 1:57 PM
+        - generic [ref=f1e1662]:
+          - heading "Compliance Requirements Status Insights" [level=4] [ref=f1e1665]
+          - generic [ref=f1e1670]:
+            - heading "No data available" [level=5] [ref=f1e1671]
+            - paragraph [ref=f1e1672]: Chart will be displayed here once data becomes available.

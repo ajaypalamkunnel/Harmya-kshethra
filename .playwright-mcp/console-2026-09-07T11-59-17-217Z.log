@@ -1,0 +1,13 @@
+[     601ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[   42786ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/compliance-assessments/38/approve:0
+[   42789ms] [ERROR] Error while approve workflow: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-W2FCHEDO.js:2813

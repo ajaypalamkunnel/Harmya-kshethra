@@ -1,0 +1,113 @@
+[     572ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[   17156ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/71/clause-guidance:0
+[   17162ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[   38002ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/71/clause-guidance:0
+[   38008ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[   60786ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/71/clause-guidance:0
+[   60791ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[   87367ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/71/clause-guidance:0
+[   87371ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[  118076ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/71/clause-guidance:0
+[  118082ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[  147430ms] [WARNING] [MobX] Since strict-mode is enabled, changing (observed) observable values without using an action is not allowed. Tried to modify: _ComplianceClauseStore@11.activeClause @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-QDGGDU4U.js?v=3057d4ea:1648
+[  148048ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/72/clause-guidance:0
+[  148053ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[  163359ms] [WARNING] [MobX] Since strict-mode is enabled, changing (observed) observable values without using an action is not allowed. Tried to modify: _ComplianceClauseStore@11.activeClause @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-QDGGDU4U.js?v=3057d4ea:1648
+[  163941ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/73/clause-guidance:0
+[  163955ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[  177250ms] [WARNING] [MobX] Since strict-mode is enabled, changing (observed) observable values without using an action is not allowed. Tried to modify: _ComplianceClauseStore@11.activeClause @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-QDGGDU4U.js?v=3057d4ea:1648
+[  177767ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/74/clause-guidance:0
+[  177777ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359
+[  191384ms] [WARNING] [MobX] Since strict-mode is enabled, changing (observed) observable values without using an action is not allowed. Tried to modify: _ComplianceClauseStore@11.activeClause @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-QDGGDU4U.js?v=3057d4ea:1648
+[  191994ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/jethur-ai/compliances/clauses/75/clause-guidance:0
+[  192004ms] [ERROR] Failed to fetch details: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-67CNGAAC.js:4359

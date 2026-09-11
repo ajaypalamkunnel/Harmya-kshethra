@@ -1,0 +1,51 @@
+[     888ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[   48715ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/compliance-assessments/38/approve:0
+[   48718ms] [ERROR] Error while approve workflow: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-W2FCHEDO.js:2813
+[   64249ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ http://localhost:8080/compliance-assessments/38/requirements/36/approve:0
+[   69255ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/compliance-assessments/38/requirements/36/approve:0
+[   70166ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:8080/compliance-assessments/38/approve:0
+[   70169ms] [ERROR] Error while approve workflow: Error: common.internal_server_error_msg
+    at http://localhost:4200/main.js:2420:21
+    at http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:2470:33
+    at OperatorSubscriber2._this._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:600:9)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at Subscriber2._error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:327:24)
+    at Subscriber2.error (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-DRVVFZON.js?v=3057d4ea:304:12)
+    at _FetchBackend.<anonymous> (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-ZVWWTUDA.js?v=3057d4ea:1457:18)
+    at Generator.next (<anonymous>)
+    at fulfilled (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-AIZRGZFI.js?v=3057d4ea:73:24)
+    at _ZoneDelegate.invoke (http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/zone__js.js?v=3057d4ea:334:158) @ http://localhost:4200/chunk-W2FCHEDO.js:2813
+[  183255ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:8080/users/me/notifications/new-count:0
+[  183256ms] [ERROR] An error occurred: HttpErrorResponse @ http://localhost:4200/main.js:2430
+[  183256ms] [ERROR] Error fetching notification count: HttpErrorResponse @ http://localhost:4200/main.js:537
+[ 1880279ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:4200/@vite/client:863
+[ 1880310ms] [ERROR] WebSocket connection to 'ws://localhost:4200/' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED @ http://localhost:4200/@vite/client:920
+[ 2053412ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[ 2175945ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:8080/users/me/notifications/new-count:0
+[ 2175947ms] [ERROR] An error occurred: HttpErrorResponse @ http://localhost:4200/main.js:2430
+[ 2175948ms] [ERROR] Error fetching notification count: HttpErrorResponse @ http://localhost:4200/main.js:537
+[ 2749536ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:4200/@vite/client:863
+[ 2749577ms] [ERROR] WebSocket connection to 'ws://localhost:4200/' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED @ http://localhost:4200/@vite/client:920
+[ 2862579ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[ 4071726ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:4200/@vite/client:863
+[ 4071772ms] [ERROR] WebSocket connection to 'ws://localhost:4200/' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED @ http://localhost:4200/@vite/client:920
+[ 4104377ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: http://localhost:4200/assets/fonts/LexendDeca-Regular.woff2 @ http://localhost:4200/compliance/assessments/38/overview:0
+[ 4109003ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[ 4110151ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: http://localhost:4200/assets/fonts/LexendDeca-Medium.woff2 @ http://localhost:4200/compliance/assessments/38/overview:0
+[ 4110153ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: http://localhost:4200/assets/fonts/LexendDeca-Light.woff2 @ http://localhost:4200/compliance/assessments/38/overview:0
+[ 5063076ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:4200/@vite/client:863
+[ 5063102ms] [ERROR] WebSocket connection to 'ws://localhost:4200/' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED @ http://localhost:4200/@vite/client:920
+[16047683ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: http://localhost:4200/assets/fonts/LexendDeca-Regular.woff2 @ http://localhost:4200/compliance/assessments/38/overview:0
+[16056606ms] [LOG] Angular is running in development mode. @ http://localhost:4200/@fs/C:/Users/ajayp/Desktop/jethur-grc-alshaya-client/.angular/cache/20.1.0/jethur-client/vite/deps/chunk-NV4NJB4M.js?v=3057d4ea:14281
+[16060927ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: http://localhost:4200/assets/fonts/LexendDeca-Medium.woff2 @ http://localhost:4200/compliance/assessments/38/overview:0
+[16060928ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: http://localhost:4200/assets/fonts/LexendDeca-Light.woff2 @ http://localhost:4200/compliance/assessments/38/overview:0

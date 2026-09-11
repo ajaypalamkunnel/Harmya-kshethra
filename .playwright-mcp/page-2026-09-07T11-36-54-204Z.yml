@@ -1,0 +1,205 @@
+- generic [ref=f10e4]:
+  - generic:
+    - main:
+      - complementary [ref=f10e5]:
+        - heading [level=2] [ref=f10e7]:
+          - link [ref=f10e8] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - list [ref=f10e11]:
+          - listitem [ref=f10e12]:
+            - generic "Dashboards" [ref=f10e13] [cursor=pointer]
+          - listitem [ref=f10e15]:
+            - generic "Organization" [ref=f10e16] [cursor=pointer]
+          - listitem [ref=f10e18]:
+            - generic "Org. Context" [ref=f10e19] [cursor=pointer]
+          - listitem [ref=f10e21]:
+            - generic "Compliance" [ref=f10e22] [cursor=pointer]
+          - listitem [ref=f10e24]:
+            - generic "Risk" [ref=f10e25] [cursor=pointer]
+          - listitem [ref=f10e27]:
+            - generic "Document" [ref=f10e28] [cursor=pointer]
+          - listitem [ref=f10e30]:
+            - generic "Incident" [ref=f10e31] [cursor=pointer]
+          - listitem [ref=f10e33]:
+            - generic "Management Review" [ref=f10e34] [cursor=pointer]
+          - listitem:
+            - link "Setting" [ref=f10e36] [cursor=pointer]:
+              - /url: /settings
+  - generic [ref=f10e38]:
+    - generic:
+      - banner [ref=f10e39]:
+        - list [ref=f10e40]:
+          - listitem [ref=f10e41]:
+            - button [ref=f10e43] [cursor=pointer]:
+              - img "images" [ref=f10e44]
+          - listitem [ref=f10e45]:
+            - button "SA Super Admin" [ref=f10e47] [cursor=pointer]:
+              - generic [ref=f10e48]: SA
+              - generic [ref=f10e52]: Super Admin
+      - generic [ref=f10e53]:
+        - generic [ref=f10e54]:
+          - heading "Notification" [level=3] [ref=f10e55]
+          - link [ref=f10e56] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=f10e63]:
+          - heading [level=5]
+          - paragraph [ref=f10e64]: Youre all caught up! No new notifications at the moment
+    - generic [ref=f10e67]:
+      - generic [ref=f10e68]:
+        - generic [ref=f10e72]:
+          - link "Back" [ref=f10e73] [cursor=pointer]:
+            - /url: /compliance/assessments
+          - navigation "breadcrumb" [ref=f10e75]:
+            - list [ref=f10e76]:
+              - listitem "Assessments" [ref=f10e77]:
+                - link "Assessments" [ref=f10e78] [cursor=pointer]:
+                  - /url: /compliance/assessments
+              - listitem "PW Requirement Assessment 1757242500" [ref=f10e79]
+        - generic [ref=f10e80]:
+          - generic [ref=f10e81]:
+            - heading "PW Requirement Compliance 1757242500" [level=4] [ref=f10e82]
+            - generic [ref=f10e83]:
+              - generic [ref=f10e84]: "Ref No:"
+              - paragraph [ref=f10e85]: CR-2026-0026
+          - generic [ref=f10e87]:
+            - generic [ref=f10e89]:
+              - img "Created At" [ref=f10e91]
+              - generic [ref=f10e93]:
+                - generic [ref=f10e94]: Created At
+                - paragraph [ref=f10e95]: Sep 7, 2026 2:20 PM
+            - generic [ref=f10e97]:
+              - img "Review User" [ref=f10e99]
+              - generic [ref=f10e101]:
+                - generic [ref=f10e102]: Review User
+                - paragraph [ref=f10e103]:
+                  - generic [ref=f10e104]:
+                    - generic [ref=f10e105]: AM
+                    - generic [ref=f10e108]: Athira M V
+            - generic [ref=f10e110]:
+              - img "Status" [ref=f10e112]
+              - generic [ref=f10e114]:
+                - generic [ref=f10e115]: Status
+                - paragraph [ref=f10e116]:
+                  - generic [ref=f10e117]: In progress
+            - generic [ref=f10e119]:
+              - img "Region1" [ref=f10e121]
+              - generic [ref=f10e123]:
+                - generic [ref=f10e124]: Region1
+                - paragraph [ref=f10e125]: Human Resources
+      - list [ref=f10e130]:
+        - listitem "Overview" [ref=f10e131] [cursor=pointer]:
+          - generic [ref=f10e132]:
+            - img "undefined" [ref=f10e134]
+            - text: Overview
+        - listitem "Statistics" [ref=f10e135] [cursor=pointer]:
+          - generic [ref=f10e136]:
+            - img "undefined" [ref=f10e138]
+            - text: Statistics
+      - generic [ref=f10e140]:
+        - generic [ref=f10e142]:
+          - generic [ref=f10e146]:
+            - generic [ref=f10e147]:
+              - generic:
+                - heading [level=4]
+            - list [ref=f10e151]:
+              - listitem [ref=f10e152]:
+                - list [ref=f10e154]:
+                  - listitem [ref=f10e156]:
+                    - generic [ref=f10e158]:
+                      - button "1 PW Req Clause 1 175724..." [ref=f10e159] [cursor=pointer]
+                      - generic [ref=f10e161]: 1/1
+                    - generic [ref=f10e163]:
+                      - button "2 PW Req Clause 2 175724..." [ref=f10e164] [cursor=pointer]
+                      - generic [ref=f10e165]: 1/1
+                    - generic [ref=f10e167]:
+                      - button "3 PW Req Clause 3 175724..." [ref=f10e168] [cursor=pointer]
+                      - generic [ref=f10e169]: 1/1
+                    - generic [ref=f10e171]:
+                      - button "4 PW Req Clause 4 175724..." [ref=f10e172] [cursor=pointer]
+                      - generic [ref=f10e173]: 1/1
+                    - generic [ref=f10e175]:
+                      - button "5 PW Req Clause 5 175724..." [ref=f10e176] [cursor=pointer]
+                      - generic [ref=f10e177]: 1/1
+          - generic [ref=f10e178]:
+            - generic [ref=f10e179]:
+              - button "Export" [ref=f10e186] [cursor=pointer]
+              - button "Status" [ref=f10e192] [cursor=pointer]
+              - generic [ref=f10e193]:
+                - generic [ref=f10e194]:
+                  - generic [ref=f10e195]: Assessment Summary
+                  - generic [ref=f10e196]: 100% Completed
+                - progressbar [ref=f10e199]
+              - generic [ref=f10e200]: Review History
+            - heading [level=2] [ref=f10e207]:
+              - button "PW Req Item 2 1757242500" [ref=f10e208] [cursor=pointer]
+            - generic [ref=f10e213]:
+              - generic [ref=f10e215]:
+                - generic [ref=f10e216]: Per Page
+                - combobox [ref=f10e217]:
+                  - option "10" [selected]
+                  - option "20"
+                  - option "100"
+                  - option "500"
+                  - option "1000"
+                  - option "2000"
+                - generic [ref=f10e218]: Showing 1 to 1 of 1 items
+              - list [ref=f10e220]:
+                - listitem:
+                  - generic:
+                    - generic: 
+                    - text: Previous
+                - listitem [ref=f10e221]:
+                  - generic [ref=f10e222] [cursor=pointer]: "1"
+                - listitem:
+                  - generic:
+                    - text: Next
+                    - generic: 
+        - generic [ref=f10e225]:
+          - generic [ref=f10e227]:
+            - heading "Add" [level=3] [ref=f10e229]
+            - generic [ref=f10e230]:
+              - button "Cancel" [ref=f10e232] [cursor=pointer]
+              - button "Save & New" [ref=f10e234] [cursor=pointer]
+              - button "Save" [ref=f10e236] [cursor=pointer]
+          - generic [ref=f10e239]:
+            - generic [ref=f10e241]:
+              - generic [ref=f10e242]: Document
+              - generic [ref=f10e247]:
+                - button "Document Drag and drop Files here or click here to upload Upload"
+                - generic [ref=f10e249] [cursor=pointer]:
+                  - generic [ref=f10e251]: Drag and drop Files here or click here to upload
+                  - generic [ref=f10e252]: Upload
+            - generic [ref=f10e254]:
+              - generic [ref=f10e255]: الوثيقة
+              - generic [ref=f10e260]:
+                - button "الوثيقة Drag and drop Files here or click here to upload Upload"
+                - generic [ref=f10e262] [cursor=pointer]:
+                  - generic [ref=f10e264]: Drag and drop Files here or click here to upload
+                  - generic [ref=f10e265]: Upload
+        - generic [ref=f10e268]:
+          - generic [ref=f10e271]:
+            - button "Cancel" [ref=f10e273] [cursor=pointer]
+            - generic [ref=f10e274]:
+              - button "Save" [disabled]
+          - generic [ref=f10e277]:
+            - generic [ref=f10e279]:
+              - generic [ref=f10e281]:
+                - text: Title
+                - generic [ref=f10e282]: "*"
+              - textbox "Title *" [ref=f10e287]:
+                - /placeholder: Enter the action plan title
+            - generic [ref=f10e289]:
+              - generic [ref=f10e291]:
+                - text: Responsible User
+                - generic [ref=f10e292]: "*"
+              - generic [ref=f10e293]:
+                - generic [ref=f10e295]:
+                  - generic [ref=f10e296]: Select the responsible user
+                  - combobox [ref=f10e298]
+                - status [ref=f10e299]
+            - generic [ref=f10e301]:
+              - generic [ref=f10e303]:
+                - text: Target Date
+                - generic [ref=f10e304]: "*"
+              - textbox "Target Date *" [ref=f10e307] [cursor=pointer]:
+                - /placeholder: Select the target date
