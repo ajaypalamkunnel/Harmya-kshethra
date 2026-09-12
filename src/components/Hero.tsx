@@ -28,9 +28,9 @@ export const Hero: React.FC = () => {
       {/* Hero Content Box */}
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24 text-center flex flex-col items-center">
         {/* Location & Brand Badge */}
-        <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-gold/30 bg-dark/60 backdrop-blur-md mb-6 animate-fade-up">
-          <Sparkles className="w-3.5 h-3.5 text-gold animate-pulse" />
-          <span className="text-[10px] sm:text-xs uppercase tracking-[0.25em] text-gold font-medium">
+        <div className="inline-flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-4 py-1 sm:py-1.5 rounded-full border border-gold/30 bg-dark/60 backdrop-blur-md mb-4 sm:mb-6 max-w-[92vw] animate-fade-up">
+          <Sparkles className="w-3 h-3 sm:w-3.5 sm:h-3.5 text-gold animate-pulse shrink-0" />
+          <span className="text-[8px] xs:text-[9px] sm:text-xs uppercase tracking-[0.12em] sm:tracking-[0.25em] text-gold font-medium truncate">
             Architectural Studio • Ramapuram, Kottayam
           </span>
         </div>
