@@ -37,6 +37,23 @@ export const JSONLD: React.FC = () => {
       "Ernakulam",
       "Kerala"
     ],
+    "founder": {
+      "@type": "Person",
+      "name": "Er. Sarath Prakash",
+      "jobTitle": "Founder & Lead Engineer",
+      "hasCredential": [
+        "B.Tech in Civil Engineering",
+        "Licensed Civil Engineer",
+        "Certified Vastu Shastra Practitioner"
+      ],
+      "knowsAbout": [
+        "Civil Engineering",
+        "Vastu Shastra",
+        "Architectural Plan Drawing",
+        "Structural Engineering",
+        "Turnkey Construction Execution"
+      ]
+    },
     "priceRange": "$$$$"
   };
 
